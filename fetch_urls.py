@@ -1,13 +1,14 @@
 import httplib2
 import base64
 import os
+import pickle
 from tqdm import tqdm
 from apiclient import discovery
-from oauth2client import client
-from oauth2client import tools
+from oauth2client import client, tools
 from oauth2client.file import Storage
 from requests_html import HTML
-
+from apiclient.discovery import build
+from httplib2 import Http
 
 # If modifying these scopes, delete your previously saved credentials
 # at ~/.credentials/gmail-python-quickstart.json
@@ -24,24 +25,12 @@ def get_credentials():
     Returns:
         Credentials, the obtained credential.
     """
-    home_dir = os.path.expanduser('~')
-    credential_dir = os.path.join(home_dir, '.credentials')
-    if not os.path.exists(credential_dir):
-        os.makedirs(credential_dir)
-    credential_path = os.path.join(credential_dir,
-                                   'gmail-python-quickstart.json')
-
-    store = Storage(credential_path)
-    credentials = store.get()
-    if not credentials or credentials.invalid:
+    store = Storage('credentials.json')
+    creds = store.get()
+    if not creds or creds.invalid:
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
-        flow.user_agent = APPLICATION_NAME
-        if flags:
-            credentials = tools.run_flow(flow, store, flags)
-        else: # Needed only for compatibility with Python 2.6
-            credentials = tools.run(flow, store)
-        print('Storing credentials to ' + credential_path)
-    return credentials
+        creds = tools.run_flow(flow, store)
+    return creds
 
 def fetch_snippets():
 
@@ -56,15 +45,18 @@ def fetch_snippets():
     print("Fetching Messages...")
     for msg in tqdm(msgs['messages']):
         message = service.users().messages().get(id=msg['id'], userId='me').execute()
-        filtered = list(filter(lambda x: x['mimeType'] == 'text/html', message['payload']['parts']))
-        subject = list(filter(lambda h: h['name'] == 'Subject', message['payload']['headers']))[0]['value']
+        parts = message['payload'].get('parts')
+        filtered = []
+        subject = []
+        if parts:
+            filtered = list(filter(lambda x: x['mimeType'] == 'text/html', parts))
+            subject = list(filter(lambda h: h['name'] == 'Subject', message['payload']['headers']))[0]['value']
         if not filtered:
-            print(message)
-            continue
+            contents.append((msg['id'],))
         else:
             data = filtered[0]
-        content = base64.urlsafe_b64decode(data['body']['data']).decode('utf-8')
-        contents.append((subject, content))
+            content = base64.urlsafe_b64decode(data['body']['data']).decode('utf-8')
+            contents.append((msg['id'], subject, content))
 
     return contents
 
@@ -72,7 +64,11 @@ if __name__ == "__main__":
 
     contents = fetch_snippets()
 
-    print("Saving Emails...")
+    print("Saving emails to pickle...")
+    with open('emails.pkl', 'wb') as f:
+        pickle.dump(file=f, obj=contents)
+
+    print("Saving emails to txt...")
     with open('emails.txt', 'w') as f:
         for content in tqdm(contents):
             line = " ~~ ".join(content)

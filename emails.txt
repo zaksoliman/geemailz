@@ -1,0 +1,1146 @@
+163056000fa89603 ~~ Random – Probability, mathematical statistics, and stochastic processes (2015) ~~ <div dir="auto">Random – Probability, mathematical statistics, and stochastic processes (2015) - <a href="https://news.ycombinator.com/item?id=14283966">https://news.ycombinator.com/item?id=14283966</a></div>
+162e11bbe1965479 ~~ The AI Revolution Hasn’t Happened Yet ~~ <div dir="auto">The AI Revolution Hasn’t Happened Yet - <a href="https://news.ycombinator.com/item?id=16873778">https://news.ycombinator.com/item?id=16873778</a></div>
+162ded02fc3037ac ~~ List of places to find remote jobs and freelancing projects ~~ <div dir="auto">List of places to find remote jobs and freelancing projects - <a href="https://news.ycombinator.com/item?id=16875868">https://news.ycombinator.com/item?id=16875868</a></div>
+162b2d75256f6955 ~~ Ask HN: How to talk smart? ~~ <div dir="auto">Ask HN: How to talk smart? - <a href="https://news.ycombinator.com/item?id=9522379">https://news.ycombinator.com/item?id=9522379</a></div>
+162b1d6f0f7d7005 ~~ Web Authentication: Proposed API for accessing Public Key Credentials ~~ <div dir="auto">Web Authentication: Proposed API for accessing Public Key Credentials - <a href="https://news.ycombinator.com/item?id=16801858">https://news.ycombinator.com/item?id=16801858</a></div>
+1629dd99f4c49717 ~~ Ask HN: How to self-learn electronics? ~~ <div dir="auto">Ask HN: How to self-learn electronics? - <a href="https://news.ycombinator.com/item?id=16775744">https://news.ycombinator.com/item?id=16775744</a></div>
+1626edacf32a956c ~~ Probabilistic Filters By Example ~~ <div dir="auto">Probabilistic Filters By Example - <a href="https://news.ycombinator.com/item?id=16696922">https://news.ycombinator.com/item?id=16696922</a></div>
+16253904652ef160 ~~ Understanding Deep Learning Through Neuron Deletion ~~ <div dir="auto">Understanding Deep Learning Through Neuron Deletion - <a href="https://news.ycombinator.com/item?id=16655074">https://news.ycombinator.com/item?id=16655074</a></div>
+162464cb09b84fc1 ~~ Death of the sampling theorem? ~~ <div dir="auto">Death of the sampling theorem? - <a href="https://news.ycombinator.com/item?id=16634001">https://news.ycombinator.com/item?id=16634001</a></div>
+16243a48b70c426e ~~ Show HN: Word2Bits – Quantized Word Vectors ~~ <div dir="auto">Show HN: Word2Bits – Quantized Word Vectors - <a href="https://news.ycombinator.com/item?id=16626374">https://news.ycombinator.com/item?id=16626374</a></div>
+1623c0c562eebe23 ~~ The Saas CTO Security Checklist ~~ <div dir="auto">The Saas CTO Security Checklist - <a href="https://news.ycombinator.com/item?id=16615593">https://news.ycombinator.com/item?id=16615593</a></div>
+162352baace6d0da ~~ TinyVM – A small and easy to understand virtual machine in C ~~ <div dir="auto">TinyVM – A small and easy to understand virtual machine in C - <a href="https://news.ycombinator.com/item?id=16606677">https://news.ycombinator.com/item?id=16606677</a></div>
+162352b752309d70 ~~ Inheritance Often Doesn't Make Sense ~~ <div dir="auto">Inheritance Often Doesn&#39;t Make Sense - <a href="https://news.ycombinator.com/item?id=16605831">https://news.ycombinator.com/item?id=16605831</a></div>
+162352b566b15bc7 ~~ Mathematics for Computer Science: Readings ~~ <div dir="auto">Mathematics for Computer Science: Readings - <a href="https://news.ycombinator.com/item?id=16607308">https://news.ycombinator.com/item?id=16607308</a></div>
+1622fd751c97ff6c ~~ Dark Web Map ~~ <div dir="auto">Dark Web Map - <a href="https://news.ycombinator.com/item?id=16600746">https://news.ycombinator.com/item?id=16600746</a></div>
+1622deca74cfab10 ~~ Let's build an MP3-decoder (2008) ~~ <div dir="auto">Let&#39;s build an MP3-decoder (2008) - <a href="https://news.ycombinator.com/item?id=16598309">https://news.ycombinator.com/item?id=16598309</a></div>
+1622dec75a965831 ~~ Interactive map of Linux kernel ~~ <div dir="auto">Interactive map of Linux kernel - <a href="https://news.ycombinator.com/item?id=16598351">https://news.ycombinator.com/item?id=16598351</a></div>
+161d91d0773db523 ~~ NumPy Exercises for Data Analysis in Python ~~ <div dir="auto">NumPy Exercises for Data Analysis in Python - <a href="https://news.ycombinator.com/item?id=16473482">https://news.ycombinator.com/item?id=16473482</a></div>
+161d2f245ca200ed ~~ Lost Art of Bending Over: How Other Cultures Spare Their Spines ~~ <div dir="auto">Lost Art of Bending Over: How Other Cultures Spare Their Spines - <a href="https://news.ycombinator.com/item?id=16465294">https://news.ycombinator.com/item?id=16465294</a></div>
+161d2f0fbb09d0d7 ~~ Y Combinator’s future as a Silicon Valley kingmaker is at a make-or-break moment ~~ <div dir="auto">Y Combinator’s future as a Silicon Valley kingmaker is at a make-or-break moment - <a href="https://news.ycombinator.com/item?id=16466279">https://news.ycombinator.com/item?id=16466279</a></div>
+161ce86720fc4bba ~~ Web application from scratch, part I ~~ <div dir="auto">Web application from scratch, part I - <a href="https://news.ycombinator.com/item?id=16459976">https://news.ycombinator.com/item?id=16459976</a></div>
+16152b315bc2d352 ~~ Startup Investor School: The Basics of Seed Investing ~~ <div dir="auto">Startup Investor School: The Basics of Seed Investing - <a href="https://news.ycombinator.com/item?id=16282918">https://news.ycombinator.com/item?id=16282918</a></div>
+
+16141a88ab90fa86 ~~ An animated introduction to the Fourier Transform [video] ~~ <div dir="auto">An animated introduction to the Fourier Transform [video] - <a href="https://news.ycombinator.com/item?id=16242103">https://news.ycombinator.com/item?id=16242103</a></div>
+
+16141a558dc3ce60 ~~ Linear logic and deep learning [pdf] ~~ <div dir="auto">Linear logic and deep learning [pdf] - <a href="https://news.ycombinator.com/item?id=16255612">https://news.ycombinator.com/item?id=16255612</a></div>
+
+1613038a749181b3 ~~ Some obscure C features ~~ <div dir="auto">Some obscure C features - <a href="https://news.ycombinator.com/item?id=16234213">https://news.ycombinator.com/item?id=16234213</a></div>
+
+160da0142c30b682 ~~ How JavaScript works: an overview of the engine, runtime and call stack (2017) ~~ <div dir="auto">How JavaScript works: an overview of the engine, runtime and call stack (2017) - <a href="https://news.ycombinator.com/item?id=16102841">https://news.ycombinator.com/item?id=16102841</a></div>
+
+160d1b7e1539bc20 ~~ Python decorators they don't tell you about ~~ <div dir="auto">Python decorators they don&#39;t tell you about - <a href="https://news.ycombinator.com/item?id=16084238">https://news.ycombinator.com/item?id=16084238</a></div>
+
+160a8c2f2af42e4f ~~ Ask HN: What was the best CS paper you read in 2017? ~~ <div dir="auto">Ask HN: What was the best CS paper you read in 2017? - <a href="https://news.ycombinator.com/item?id=16035402">https://news.ycombinator.com/item?id=16035402</a></div>
+
+16086593d7a994ae ~~ NumPy Tricks and Pitfalls ~~ <div dir="auto">NumPy Tricks and Pitfalls - <a href="https://news.ycombinator.com/item?id=15996077">https://news.ycombinator.com/item?id=15996077</a></div>
+
+16084e31534a8ef8 ~~ How I went from $100-an-hour programming to $X0,000-a-week consulting ~~ <div dir="auto">How I went from $100-an-hour programming to $X0,000-a-week consulting - <a href="https://news.ycombinator.com/item?id=15994410">https://news.ycombinator.com/item?id=15994410</a></div>
+
+160702e9e25e5ae7 ~~ Introduction to WebAssembly: why should we care? ~~ <div dir="auto">Introduction to WebAssembly: why should we care? - <a href="https://news.ycombinator.com/item?id=15958827">https://news.ycombinator.com/item?id=15958827</a></div>
+
+1606689da99884d3 ~~ Modes, Medians and Means: A Unifying Perspective ~~ <div dir="auto">Modes, Medians and Means: A Unifying Perspective - <a href="https://news.ycombinator.com/item?id=15946239">https://news.ycombinator.com/item?id=15946239</a></div>
+
+1606689aaaaedee6 ~~ Matrices from a geometric perspective ~~ <div dir="auto">Matrices from a geometric perspective - <a href="https://news.ycombinator.com/item?id=15946026">https://news.ycombinator.com/item?id=15946026</a></div>
+
+1605840c1c2b1dee ~~ Fundamentals of Linear Algebra and Optimization [pdf] ~~ <div dir="auto">Fundamentals of Linear Algebra and Optimization [pdf] - <a href="https://news.ycombinator.com/item?id=15923338">https://news.ycombinator.com/item?id=15923338</a></div>
+
+16026ccf042c0213 ~~ Building a Regex Engine in Fewer Than 40 Lines of Code ~~ <div dir="auto">Building a Regex Engine in Fewer Than 40 Lines of Code - <a href="https://news.ycombinator.com/item?id=15840487">https://news.ycombinator.com/item?id=15840487</a></div>
+
+1601e4e62c31f3a2 ~~ How to respond when you are asked for an estimate? ~~ <div dir="auto">How to respond when you are asked for an estimate? - <a href="https://news.ycombinator.com/item?id=15837468">https://news.ycombinator.com/item?id=15837468</a></div>
+
+1600f53c5f5a1a56 ~~ Writing a Simple Linux Kernel Module ~~ <div dir="auto">Writing a Simple Linux Kernel Module - <a href="https://news.ycombinator.com/item?id=15817545">https://news.ycombinator.com/item?id=15817545</a></div>
+
+15ff423b10291217 ~~ Ask HN: CS papers for software architecture and design? ~~ <div dir="auto">Ask HN: CS papers for software architecture and design? - <a href="https://news.ycombinator.com/item?id=15775548">https://news.ycombinator.com/item?id=15775548</a></div>
+
+15fe535019a89153 ~~ Demystifying Floating Point Precision ~~ <div dir="auto">Demystifying Floating Point Precision - <a href="https://news.ycombinator.com/item?id=15757177">https://news.ycombinator.com/item?id=15757177</a></div>
+
+15fdb23853d119a9 ~~ “Security problems are primarily just bugs” ~~ <div dir="auto">“Security problems are primarily just bugs” - <a href="https://news.ycombinator.com/item?id=15738392">https://news.ycombinator.com/item?id=15738392</a></div>
+
+15fdb22fb53c78b5 ~~ Why you should never raise money before launching your product ~~ <div dir="auto">Why you should never raise money before launching your product - <a href="https://news.ycombinator.com/item?id=15741732">https://news.ycombinator.com/item?id=15741732</a></div>
+
+15fdb00d6401f70a ~~ Ask HN: Resources on how to improve abstract thinking skills? ~~ <div dir="auto">Ask HN: Resources on how to improve abstract thinking skills? - <a href="https://news.ycombinator.com/item?id=15740777">https://news.ycombinator.com/item?id=15740777</a></div>
+
+15fdb006834c403b ~~ Modern Computer Arthmetic (2010) [pdf] ~~ <div dir="auto">Modern Computer Arthmetic (2010) [pdf] - <a href="https://news.ycombinator.com/item?id=15739731">https://news.ycombinator.com/item?id=15739731</a></div>
+
+15fdaff9560a4041 ~~ Stanford Compilers Course ~~ <div dir="auto">Stanford Compilers Course - <a href="https://news.ycombinator.com/item?id=15739877">https://news.ycombinator.com/item?id=15739877</a></div>
+
+15fc2019708b6845 ~~ Keeping a Lab Notebook [pdf] ~~ <div dir="auto">Keeping a Lab Notebook [pdf] - <a href="https://news.ycombinator.com/item?id=15704354">https://news.ycombinator.com/item?id=15704354</a></div>
+
+15fbf9c5cdcd754f ~~ A Guide to Natural Language Processing (NLP) ~~ <div dir="auto">A Guide to Natural Language Processing (NLP) - <a href="https://news.ycombinator.com/item?id=15702725">https://news.ycombinator.com/item?id=15702725</a></div>
+
+15f7d793a73a6f82 ~~ What every systems programmer should know about lockless concurrency [pdf] ~~ <div dir="auto">What every systems programmer should know about lockless concurrency [pdf] - <a href="https://news.ycombinator.com/item?id=15607869">https://news.ycombinator.com/item?id=15607869</a></div>
+
+15f74149a3bf462c ~~ Reaching $10k monthly revenue with WakaTime, my SaaS side project ~~ <div dir="auto">Reaching $10k monthly revenue with WakaTime, my SaaS side project - <a href="https://news.ycombinator.com/item?id=15593589">https://news.ycombinator.com/item?id=15593589</a></div>
+
+15f51e3a5f82ede1 ~~ How We Bootstrapped Our SaaS Startup to Ramen Profitability ~~ <div dir="auto">How We Bootstrapped Our SaaS Startup to Ramen Profitability - <a href="https://news.ycombinator.com/item?id=15544378">https://news.ycombinator.com/item?id=15544378</a></div>
+
+15f4ffe57207b4fa ~~ The Future of Programming (2013) ~~ <div dir="auto">The Future of Programming (2013) - <a href="https://news.ycombinator.com/item?id=15539766">https://news.ycombinator.com/item?id=15539766</a></div>
+
+15f44fb4c0f631d5 ~~ Object oriented programming in C ~~ <div dir="auto">Object oriented programming in C - <a href="https://news.ycombinator.com/item?id=15526790">https://news.ycombinator.com/item?id=15526790</a></div>
+
+15f44fa3c35b3655 ~~ Deep C (2011) ~~ <div dir="auto">Deep C (2011) - <a href="https://news.ycombinator.com/item?id=15526929">https://news.ycombinator.com/item?id=15526929</a></div>
+
+15f412a9d957d0db ~~ A reasonably speedy Python ray tracer ~~ <div dir="auto">A reasonably speedy Python ray tracer - <a href="https://news.ycombinator.com/item?id=15522428">https://news.ycombinator.com/item?id=15522428</a></div>
+
+15f0e7be4f8ec0b1 ~~ How to Get a Job in Crypto - AngelList ~~ <div dir="auto"><a href="https://angel.co/talent-hacks/how-to-get-a-job-at-a-crypto-startup?utm_campaign=talent_newsletter-newsletter&amp;utm_content=nearly-doubled&amp;utm_medium=email&amp;utm_source=talent_newsletter-newsletter&amp;utm_term=">https://angel.co/talent-hacks/how-to-get-a-job-at-a-crypto-startup?utm_campaign=talent_newsletter-newsletter&amp;utm_content=nearly-doubled&amp;utm_medium=email&amp;utm_source=talent_newsletter-newsletter&amp;utm_term=</a></div>
+
+15f0b33eac19d707 ~~ Spotify’s Discover Weekly: How machine learning finds new music ~~ <div dir="auto">Spotify’s Discover Weekly: How machine learning finds new music - <a href="https://news.ycombinator.com/item?id=15447706">https://news.ycombinator.com/item?id=15447706</a></div>
+
+15efd87129edac66 ~~ The CTO Journey at a Small Startup ~~ <div dir="auto">The CTO Journey at a Small Startup - <a href="https://news.ycombinator.com/item?id=14625499">https://news.ycombinator.com/item?id=14625499</a></div>
+
+15efd8608a2e71da ~~ The Met Makes 375k Images Available for Free ~~ <div dir="auto">The Met Makes 375k Images Available for Free - <a href="https://news.ycombinator.com/item?id=13593334">https://news.ycombinator.com/item?id=13593334</a></div>
+
+15efd777bf52de93 ~~ Menuet – A pre-emptive, real-time and multiprocessor OS written in assembly ~~ <div dir="auto">Menuet – A pre-emptive, real-time and multiprocessor OS written in assembly - <a href="https://news.ycombinator.com/item?id=15427848">https://news.ycombinator.com/item?id=15427848</a></div>
+
+15efd77181508bf2 ~~ Designing Data-Intensive Applications ~~ <div dir="auto">Designing Data-Intensive Applications - <a href="https://news.ycombinator.com/item?id=15428526">https://news.ycombinator.com/item?id=15428526</a></div>
+
+15ee839e1c5bdc57 ~~ Ask HN: How best to learn software design principles? ~~ <div dir="auto">Ask HN: How best to learn software design principles? - <a href="https://news.ycombinator.com/item?id=8000811">https://news.ycombinator.com/item?id=8000811</a></div>
+
+15ee838255550317 ~~ Ask HN: Resources to learn blockchain and smart contracts? ~~ <div dir="auto">Ask HN: Resources to learn blockchain and smart contracts? - <a href="https://news.ycombinator.com/item?id=15398550">https://news.ycombinator.com/item?id=15398550</a></div>
+
+15ec9a51e16b82f6 ~~ Three Paths in the Tech Industry: Founder, Executive, or Employee ~~ <div dir="auto">Three Paths in the Tech Industry: Founder, Executive, or Employee - <a href="https://news.ycombinator.com/item?id=15357584">https://news.ycombinator.com/item?id=15357584</a></div>
+
+15ec9a4e789ede65 ~~ Bloom Filters for the Perplexed ~~ <div dir="auto">Bloom Filters for the Perplexed - <a href="https://news.ycombinator.com/item?id=15346337">https://news.ycombinator.com/item?id=15346337</a></div>
+
+15ebe84c6ad33c97 ~~ Apache Arrow and the “Things I Hate About Pandas” ~~ <div dir="auto">Apache Arrow and the “Things I Hate About Pandas” - <a href="https://news.ycombinator.com/item?id=15335462">https://news.ycombinator.com/item?id=15335462</a></div>
+
+15ebabcc2d74cc3b ~~ Digging into a Solopreneur's Experimentation Stack ~~ <div dir="auto">Digging into a Solopreneur&#39;s Experimentation Stack - <a href="https://news.ycombinator.com/item?id=15261795">https://news.ycombinator.com/item?id=15261795</a></div>
+
+15ebaafcae82583a ~~ YC’s Essential Startup Advice ~~ <div dir="auto">YC’s Essential Startup Advice - <a href="https://news.ycombinator.com/item?id=15331016">https://news.ycombinator.com/item?id=15331016</a></div>
+
+15e8273caf8d2a50 ~~ Side gigs ideas ~~ <div dir="auto"><a href="https://www.entrepreneur.com/article/300022">https://www.entrepreneur.com/article/300022</a></div>
+
+15e801e3eb62c399 ~~ Ask HN: How to start afresh in a new domain after years of expertise in another? ~~ <div dir="auto">Ask HN: How to start afresh in a new domain after years of expertise in another? - <a href="https://news.ycombinator.com/item?id=15182501">https://news.ycombinator.com/item?id=15182501</a></div>
+
+15e67b61eb0705c0 ~~ Big Data Patterns ~~ <div dir="auto">Big Data Patterns - <a href="https://news.ycombinator.com/item?id=15206425">https://news.ycombinator.com/item?id=15206425</a></div>
+
+15e62cf05a1d6600 ~~ Course Notes – J.S. Milne ~~ <div dir="auto">Course Notes – J.S. Milne - <a href="https://news.ycombinator.com/item?id=15200413">https://news.ycombinator.com/item?id=15200413</a></div>
+
+15e4ed281b580d75 ~~ Writing a SQLite clone from scratch in C ~~ <div dir="auto">Writing a SQLite clone from scratch in C - <a href="https://news.ycombinator.com/item?id=15168467">https://news.ycombinator.com/item?id=15168467</a></div>
+
+15e46916eb86c045 ~~ My first fifteen compilers ~~ <div dir="auto">My first fifteen compilers - <a href="https://news.ycombinator.com/item?id=15153956">https://news.ycombinator.com/item?id=15153956</a></div>
+
+15e412347f7c0bad ~~ Great Ideas in Theoretical Computer Science ~~ <div dir="auto">Great Ideas in Theoretical Computer Science - <a href="https://news.ycombinator.com/item?id=15146905">https://news.ycombinator.com/item?id=15146905</a></div>
+
+15e24f47dcc22e54 ~~ My favorite step-by-step guides ~~ <div dir="auto"><a href="https://www.reddit.com/r/Entrepreneur/comments/6w87ep/my_favorite_stepbystep_guides/">https://www.reddit.com/r/Entrepreneur/comments/6w87ep/my_favorite_stepbystep_guides/</a></div>
+
+15e01db6cd45612e ~~ Rolling Your Own Blockchain in Haskell ~~ <div dir="auto">Rolling Your Own Blockchain in Haskell - <a href="https://news.ycombinator.com/item?id=15058698">https://news.ycombinator.com/item?id=15058698</a></div>
+
+15dee9c61d180e75 ~~ Twenty Questions for Donald Knuth (2014) ~~ <div dir="auto">Twenty Questions for Donald Knuth (2014) - <a href="https://news.ycombinator.com/item?id=15033613">https://news.ycombinator.com/item?id=15033613</a></div>
+
+15debe6b41b9088e ~~ A Primer on Neural Network Models for Natural Language Processing (2016) [pdf] ~~ <div dir="auto">A Primer on Neural Network Models for Natural Language Processing (2016) [pdf] - <a href="https://news.ycombinator.com/item?id=15026273">https://news.ycombinator.com/item?id=15026273</a></div>
+
+15dde48a0b38c03e ~~ An Intro to Compilers ~~ <div dir="auto">An Intro to Compilers - <a href="https://news.ycombinator.com/item?id=15005031">https://news.ycombinator.com/item?id=15005031</a></div>
+
+15d78db6765ea442 ~~ Give in to Procrastination and Stop Prefetching (2013) [pdf] ~~ <div dir="auto">Give in to Procrastination and Stop Prefetching (2013) [pdf] - <a href="https://news.ycombinator.com/item?id=14830163">https://news.ycombinator.com/item?id=14830163</a></div>
+
+15d325a6150d8313 ~~ Exotic Data Structures (2011) ~~ <div dir="auto">Exotic Data Structures (2011) - <a href="https://news.ycombinator.com/item?id=14742534">https://news.ycombinator.com/item?id=14742534</a></div>
+
+15d296fe6074046b ~~ Counterintuitive problem: People in a room keep giving dollars to random others ~~ <div dir="auto">Counterintuitive problem: People in a room keep giving dollars to random others - <a href="https://news.ycombinator.com/item?id=14729400">https://news.ycombinator.com/item?id=14729400</a></div>
+
+15d1ddfe7a983f7d ~~ Mastering Programming ~~ <div dir="auto">Mastering Programming - <a href="https://news.ycombinator.com/item?id=14716852">https://news.ycombinator.com/item?id=14716852</a></div>
+
+15d1ddfa370b9abe ~~ Monte Carlo theory, methods and examples (2013) ~~ <div dir="auto">Monte Carlo theory, methods and examples (2013) - <a href="https://news.ycombinator.com/item?id=14716341">https://news.ycombinator.com/item?id=14716341</a></div>
+
+15d0e3c6317ba230 ~~ Skip grep, use awk ~~ <div dir="auto">Skip grep, use awk - <a href="https://news.ycombinator.com/item?id=14692233">https://news.ycombinator.com/item?id=14692233</a></div>
+
+15cfaf112099edfb ~~ 11 Best Freelance Python Developers for Hire in June 2017 - Toptal™ ~~ <div dir="auto"><a href="https://www.toptal.com/python?utm_source=facebook-ads&amp;utm_medium=newsfeed&amp;utm_campaign=dev_qua_ctw_hiring-guides_as_w_rmktpython_widestartupint&amp;utm_content=python-hiring-guide_ab1#hiring-guide">https://www.toptal.com/python?utm_source=facebook-ads&amp;utm_medium=newsfeed&amp;utm_campaign=dev_qua_ctw_hiring-guides_as_w_rmktpython_widestartupint&amp;utm_content=python-hiring-guide_ab1#hiring-guide</a></div>
+
+15cdc417094d5db9 ~~ The CTO Journey at a Small Startup ~~ <div dir="auto">The CTO Journey at a Small Startup - <a href="https://zapier.com/engineering/startup-cto/">https://zapier.com/engineering/startup-cto/</a></div>
+
+15cd8e5ad89f2403 ~~ What Every Programmer Should Know About Memory (2007) [pdf] ~~ <div dir="auto">What Every Programmer Should Know About Memory (2007) [pdf] - <a href="https://news.ycombinator.com/item?id=14622861">https://news.ycombinator.com/item?id=14622861</a></div>
+
+15ccee59cf16cf88 ~~ Google Brain: Experimental Limits of RNNs [Technical] ~~ <div dir="auto">Google Brain: Experimental Limits of RNNs [Technical] - <a href="https://arxiv.org/abs/1611.09913">https://arxiv.org/abs/1611.09913</a></div>
+
+15ca7c0b8f7874b6 ~~ Show HN: Get Paid to Build Your Next Side Project ~~ <div dir="auto">Show HN: Get Paid to Build Your Next Side Project - <a href="https://news.ycombinator.com/item?id=14552615">https://news.ycombinator.com/item?id=14552615</a></div>
+
+15c9134e222fb05e ~~ Exploring LSTMs ~~ <div dir="auto">Exploring LSTMs - <a href="https://news.ycombinator.com/item?id=14526305">https://news.ycombinator.com/item?id=14526305</a></div>
+
+15c75b6ab782294d ~~ A list of practical projects that anyone can solve in any programming language ~~ <div dir="auto">A list of practical projects that anyone can solve in any programming language - <a href="https://news.ycombinator.com/item?id=14481941">https://news.ycombinator.com/item?id=14481941</a></div>
+
+15c6ff61af6313bc ~~ Crypto Tokens: A Breakthrough in Open Network Design ~~ <div dir="auto">Crypto Tokens: A Breakthrough in Open Network Design - <a href="https://news.ycombinator.com/item?id=14460596">https://news.ycombinator.com/item?id=14460596</a></div>
+
+15c6ff49bfeda5d0 ~~ Show HN: Pydantic – Data validation using Python 3.6 type hinting ~~ <div dir="auto">Show HN: Pydantic – Data validation using Python 3.6 type hinting - <a href="https://news.ycombinator.com/item?id=14477222">https://news.ycombinator.com/item?id=14477222</a></div>
+
+15c6e317e32c7a0e ~~ A hands-on introduction to video technology: image, video, codec and more ~~ <div dir="auto">A hands-on introduction to video technology: image, video, codec and more - <a href="https://news.ycombinator.com/item?id=14475884">https://news.ycombinator.com/item?id=14475884</a></div>
+
+15c69d9b127f2064 ~~ Network Protocols ~~ <div dir="auto">Network Protocols - <a href="https://news.ycombinator.com/item?id=14468471">https://news.ycombinator.com/item?id=14468471</a></div>
+
+15c65103ed25efc0 ~~ How to Talk to Girls and Get Them Attracted - PostGradCasanova ~~ <div dir="auto"><a href="http://postgradcasanova.com/how-to-talk-to-girls/">http://postgradcasanova.com/how-to-talk-to-girls/</a></div>
+
+15c6294e90f2aa8f ~~ All Underscore's Scala books are free and open source ~~ <div dir="auto">All Underscore&#39;s Scala books are free and open source - <a href="https://news.ycombinator.com/item?id=14458293">https://news.ycombinator.com/item?id=14458293</a></div>
+
+15c4fd2317eb74ff ~~ A Practical Guide to Linux Commands, Editors, and Shell Programming (2010) [pdf] ~~ <div dir="auto">A Practical Guide to Linux Commands, Editors, and Shell Programming (2010) [pdf] - <a href="https://news.ycombinator.com/item?id=14433684">https://news.ycombinator.com/item?id=14433684</a></div>
+
+15c4c682d61402da ~~ How Bayesian Inference Works (2016) ~~ <div dir="auto">How Bayesian Inference Works (2016) - <a href="https://news.ycombinator.com/item?id=14429616">https://news.ycombinator.com/item?id=14429616</a></div>
+
+15c4c679eb278476 ~~ Linux Inside – How the Linux Kernel Works ~~ <div dir="auto">Linux Inside – How the Linux Kernel Works - <a href="https://news.ycombinator.com/item?id=14422605">https://news.ycombinator.com/item?id=14422605</a></div>
+
+15c2df33db388385 ~~ Shortcuts for Growing your Side-Project ~~ <div dir="auto"><a href="http://davekiss.com/through-the-backyard-shortcuts-for-selling-your-side-project/">http://davekiss.com/through-the-backyard-shortcuts-for-selling-your-side-project/</a></div>
+
+15c2b527601d4e89 ~~ TFS: A file system built for performance, space efficiency, and scalability ~~ <div dir="auto">TFS: A file system built for performance, space efficiency, and scalability - <a href="https://news.ycombinator.com/item?id=14386331">https://news.ycombinator.com/item?id=14386331</a></div>
+
+15c22e4ec9a0245f ~~ Attacking Machine Learning with Adversarial Examples ~~ <div dir="auto">Attacking Machine Learning with Adversarial Examples - <a href="https://news.ycombinator.com/item?id=14374803">https://news.ycombinator.com/item?id=14374803</a></div>
+
+15c0e1dfa87ffeac ~~ Eigentechno – Principal Component Analysis applied to electronic music ~~ <div dir="auto">Eigentechno – Principal Component Analysis applied to electronic music - <a href="https://news.ycombinator.com/item?id=14336093">https://news.ycombinator.com/item?id=14336093</a></div>
+
+15c00b3a61673d3f ~~ Coding the Matrix: Linear Algebra Through Computer Science Applications ~~ <div dir="auto">Coding the Matrix: Linear Algebra Through Computer Science Applications - <a href="https://news.ycombinator.com/item?id=14236541">https://news.ycombinator.com/item?id=14236541</a></div>
+
+15bf96ce67d8e0d9 ~~ Alan Kay at Startup School [video] ~~ <div dir="auto">Alan Kay at Startup School [video] - <a href="https://news.ycombinator.com/item?id=14318663">https://news.ycombinator.com/item?id=14318663</a></div>
+
+15bf96c97bd766ef ~~ Pulling JPEGs out of thin air (2014) ~~ <div dir="auto">Pulling JPEGs out of thin air (2014) - <a href="https://news.ycombinator.com/item?id=14315690">https://news.ycombinator.com/item?id=14315690</a></div>
+
+15bebb92dc701a27 ~~ Writing a Damn Fast Hash Table with Tiny Memory Footprints ~~ <div dir="auto">Writing a Damn Fast Hash Table with Tiny Memory Footprints - <a href="https://news.ycombinator.com/item?id=14290055">https://news.ycombinator.com/item?id=14290055</a></div>
+
+15bea648c65aabf1 ~~ BUILDING A RACKMOUNT STORAGE SERVER ~~ <div dir="auto"><a href="https://blog.monstermuffin.org/building-a-rackmount-storage-server/">https://blog.monstermuffin.org/building-a-rackmount-storage-server/</a></div>
+
+15be9ca5264961c8 ~~ Kubernetes clusters for the hobbyist ~~ <div dir="auto">Kubernetes clusters for the hobbyist - <a href="https://news.ycombinator.com/item?id=14290856">https://news.ycombinator.com/item?id=14290856</a></div>
+
+15be9c5e26a74f1e ~~ Things to Use Instead of JSON Web Tokens ~~ <div dir="auto">Things to Use Instead of JSON Web Tokens - <a href="https://news.ycombinator.com/item?id=14290114">https://news.ycombinator.com/item?id=14290114</a></div>
+
+15be51b82e52cbda ~~ Show HN: 100 Million Books – Open a new tab, discover a new book ~~ <div dir="auto">Show HN: 100 Million Books – Open a new tab, discover a new book - <a href="https://news.ycombinator.com/item?id=14286133">https://news.ycombinator.com/item?id=14286133</a></div>
+
+15be35831c83c5d5 ~~ Getting Started with Headless Chrome ~~ <div dir="auto">Getting Started with Headless Chrome - <a href="https://news.ycombinator.com/item?id=14239194">https://news.ycombinator.com/item?id=14239194</a></div>
+
+15be349dc0e76ca4 ~~ Random – Probability, mathematical statistics, and stochastic processes (2015) ~~ <div dir="auto">Random – Probability, mathematical statistics, and stochastic processes (2015) - <a href="https://news.ycombinator.com/item?id=14283966">https://news.ycombinator.com/item?id=14283966</a></div>
+
+15bc7f54208416ab ~~ Asynchronous Programming in Python: Asyncio ~~ <div dir="auto">Asynchronous Programming in Python: Asyncio - <a href="https://news.ycombinator.com/item?id=14240125">https://news.ycombinator.com/item?id=14240125</a></div>
+
+15bc2ce12a3c69e1 ~~ How to Read Mathematics ~~ <div dir="auto">How to Read Mathematics - <a href="https://news.ycombinator.com/item?id=14232977">https://news.ycombinator.com/item?id=14232977</a></div>
+
+15bbd393e993bc52 ~~ How to Read a Paper [pdf] ~~ <div dir="auto">How to Read a Paper [pdf] - <a href="https://news.ycombinator.com/item?id=14228912">https://news.ycombinator.com/item?id=14228912</a></div>
+
+15bb81dfad0520d9 ~~ Ask HN: How do you keep improving? ~~ <div dir="auto">Ask HN: How do you keep improving? - <a href="https://news.ycombinator.com/item?id=14218408">https://news.ycombinator.com/item?id=14218408</a></div>
+
+15bae61a3e048d19 ~~ Github mcm ~~ <div dir="auto"><a href="https://github.com/mceachen">https://github.com/mceachen</a></div>
+
+15b9cc987d98d331 ~~ Stanford Lecture Notes on Probabilistic Graphical Models ~~ <div dir="auto">Stanford Lecture Notes on Probabilistic Graphical Models - <a href="https://news.ycombinator.com/item?id=14178399">https://news.ycombinator.com/item?id=14178399</a></div>
+
+15b9acd334847ded ~~ The Traveling Salesperson Problem ~~ <div dir="auto">The Traveling Salesperson Problem - <a href="https://news.ycombinator.com/item?id=9481423">https://news.ycombinator.com/item?id=9481423</a></div>
+
+15b9aca7bd420f57 ~~ Enterprise Sales Guide: The Process of Selling Enterprise Software Demystified ~~ <div dir="auto">Enterprise Sales Guide: The Process of Selling Enterprise Software Demystified - <a href="https://news.ycombinator.com/item?id=9611668">https://news.ycombinator.com/item?id=9611668</a></div>
+
+15b997d95ddeba37 ~~ Calculus Made Easy (1914) [pdf] ~~ <div dir="auto">Calculus Made Easy (1914) [pdf] - <a href="https://news.ycombinator.com/item?id=14161876">https://news.ycombinator.com/item?id=14161876</a></div>
+
+15b941dfbb17bf3b ~~ Resources on creating programming languages ~~ <div dir="auto">Resources on creating programming languages - <a href="https://news.ycombinator.com/item?id=14169760">https://news.ycombinator.com/item?id=14169760</a></div>
+
+15b92eca49ae2f98 ~~ Awesome Deep Learning: Most Cited Deep Learning Papers ~~ <div dir="auto"><a href="http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html">http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html</a></div>
+
+15b9246bb5cf9cc2 ~~ Artificial Intelligence Videos ~~ <div dir="auto"><a href="http://videos.syntience.com/">http://videos.syntience.com/</a></div>
+
+15b924657010d059 ~~ AI Research In The 21st Century ~~ <div dir="auto"><a href="http://monicasmind.com/">http://monicasmind.com/</a></div>
+
+15b8dbb891dfd812 ~~ Bitcoin Mining is NP-hard (2014) ~~ <div dir="auto">Bitcoin Mining is NP-hard (2014) - <a href="https://news.ycombinator.com/item?id=14155308">https://news.ycombinator.com/item?id=14155308</a></div>
+
+15b7fc73363c713d ~~ Miniatures: Mathematical and Algorithmic Applications of Linear Algebra [pdf] ~~ <div dir="auto">Miniatures: Mathematical and Algorithmic Applications of Linear Algebra [pdf] - <a href="https://news.ycombinator.com/item?id=14129306">https://news.ycombinator.com/item?id=14129306</a></div>
+
+15b68f84de81fa32 ~~ Low-Level Programming University – A roadmap to becoming a low-level programmer ~~ <div dir="auto">Low-Level Programming University – A roadmap to becoming a low-level programmer - <a href="https://news.ycombinator.com/item?id=14104495">https://news.ycombinator.com/item?id=14104495</a></div>
+
+15b62e25d3b671c4 ~~ How to Study (2016) ~~ <div dir="auto">How to Study (2016) - <a href="https://news.ycombinator.com/item?id=14088786">https://news.ycombinator.com/item?id=14088786</a></div>
+
+15b6255ef131fbd7 ~~ Best Websites for Entrepreneurs and Startups ~~ <div dir="auto">Best Websites for Entrepreneurs and Startups - <a href="https://online.abdn.ac.uk/global-mba/blog/best-business-websites/">https://online.abdn.ac.uk/global-mba/blog/best-business-websites/</a></div>
+
+15b6254506fec830 ~~ Show HN: A list of resources for leaving Upwork ~~ <div dir="auto">Show HN: A list of resources for leaving Upwork - <a href="http://remotestash.co">http://remotestash.co</a></div>
+
+15b5daef405888b7 ~~ Stanford Brainstorm Chip to Hints at Neuromorphic Computing Future ~~ <div dir="auto">Stanford Brainstorm Chip to Hints at Neuromorphic Computing Future - <a href="https://news.ycombinator.com/item?id=14078487">https://news.ycombinator.com/item?id=14078487</a></div>
+
+15b52760154f001b ~~ Ask HN: What are pros and cons of PostgreSQL and MySQL? ~~ <div dir="auto">Ask HN: What are pros and cons of PostgreSQL and MySQL? - <a href="https://news.ycombinator.com/item?id=14070930">https://news.ycombinator.com/item?id=14070930</a></div>
+
+15b5275c836bfda1 ~~ Best Practices for Applying Deep Learning to Novel Applications ~~ <div dir="auto">Best Practices for Applying Deep Learning to Novel Applications - <a href="https://news.ycombinator.com/item?id=14068723">https://news.ycombinator.com/item?id=14068723</a></div>
+
+15b49532d7029c7f ~~ Machine learning without centralized training data ~~ <div dir="auto">Machine learning without centralized training data - <a href="https://news.ycombinator.com/item?id=14055655">https://news.ycombinator.com/item?id=14055655</a></div>
+
+15b452e98c027819 ~~ Unsupervised sentiment neuron ~~ <div dir="auto">Unsupervised sentiment neuron - <a href="https://news.ycombinator.com/item?id=14051851">https://news.ycombinator.com/item?id=14051851</a></div>
+
+15b3b250054d256b ~~ Why Momentum Works ~~ <div dir="auto">Why Momentum Works - <a href="https://news.ycombinator.com/item?id=14034426">https://news.ycombinator.com/item?id=14034426</a></div>
+
+15b3b249f8e2a5b9 ~~ Gameboy Advance Development by Example: Drawing and Moving Sprites ~~ <div dir="auto">Gameboy Advance Development by Example: Drawing and Moving Sprites - <a href="https://news.ycombinator.com/item?id=14031632">https://news.ycombinator.com/item?id=14031632</a></div>
+
+15b19d370bbdc37b ~~ Machine Learning Best Practices for Big Dataset ~~ <div dir="auto"><a href="http://datascience.stackexchange.com/q/13901">http://datascience.stackexchange.com/q/13901</a></div>
+
+15b199135a28ed3f ~~ Getting started with gameboy advance development ~~ <div dir="auto">Getting started with gameboy advance development - <a href="https://news.ycombinator.com/item?id=13983359">https://news.ycombinator.com/item?id=13983359</a></div>
+
+15b183606caf5a57 ~~ M. I. Jordan: An Introduction to Probabilistic Graphical Models ~~ <div dir="auto">M. I. Jordan: An Introduction to Probabilistic Graphical Models - <a href="https://news.ycombinator.com/item?id=13982860">https://news.ycombinator.com/item?id=13982860</a></div>
+
+15b097ae648e1011 ~~ Haskell Concepts in One Sentence ~~ <div dir="auto">Haskell Concepts in One Sentence - <a href="https://news.ycombinator.com/item?id=13958491">https://news.ycombinator.com/item?id=13958491</a></div>
+
+15afd02e11c04789 ~~ A Quick Look at Support Vector Machines ~~ <div dir="auto">A Quick Look at Support Vector Machines - <a href="https://news.ycombinator.com/item?id=13939003">https://news.ycombinator.com/item?id=13939003</a></div>
+
+15af830d8995a681 ~~ Deep Learning without Backpropagation - i am trask ~~ <div dir="auto"><a href="https://iamtrask.github.io/2017/03/21/synthetic-gradients/">https://iamtrask.github.io/2017/03/21/synthetic-gradients/</a></div>
+
+15af6ac366c5cdf2 ~~ YouTube channels for entrepreneurs ~~ <div dir="auto">YouTube channels for entrepreneurs - <a href="https://news.ycombinator.com/item?id=13931099">https://news.ycombinator.com/item?id=13931099</a></div>
+
+15aeedadb8ff9bf2 ~~ The Document Which Used to Be Called the MIT Lockpicking Guide (1992) ~~ <div dir="auto">The Document Which Used to Be Called the MIT Lockpicking Guide (1992) - <a href="https://news.ycombinator.com/item?id=13915470">https://news.ycombinator.com/item?id=13915470</a></div>
+
+15ae8aca4dd29986 ~~ YC AI ~~ <div dir="auto">YC AI - <a href="https://news.ycombinator.com/item?id=13909656">https://news.ycombinator.com/item?id=13909656</a></div>
+
+15ae777bafb31aae ~~ Three Months of Go, from a Haskeller’s perspective (2016) ~~ <div dir="auto">Three Months of Go, from a Haskeller’s perspective (2016) - <a href="https://news.ycombinator.com/item?id=13905690">https://news.ycombinator.com/item?id=13905690</a></div>
+
+15ae7775e82e25dc ~~ Show HN: Aeneas – a Python audio/text aligner ~~ <div dir="auto">Show HN: Aeneas – a Python audio/text aligner - <a href="https://news.ycombinator.com/item?id=13907010">https://news.ycombinator.com/item?id=13907010</a></div>
+
+15ae777103e01260 ~~ Immersive Linear Algebra – textbook with fully interactive figures (2015) ~~ <div dir="auto">Immersive Linear Algebra – textbook with fully interactive figures (2015) - <a href="https://news.ycombinator.com/item?id=13904881">https://news.ycombinator.com/item?id=13904881</a></div>
+
+15ad97d1e32a6676 ~~ Acing the technical interview ~~ <div dir="auto">Acing the technical interview - <a href="https://news.ycombinator.com/item?id=13886626">https://news.ycombinator.com/item?id=13886626</a></div>
+
+15ad97c1c3592ec8 ~~ A million-dollar engineering problem ~~ <div dir="auto">A million-dollar engineering problem - <a href="https://news.ycombinator.com/item?id=13886885">https://news.ycombinator.com/item?id=13886885</a></div>
+
+15ad80c16ad4d052 ~~ Web Scraping: Bypassing “403 Forbidden,” captchas, and more ~~ <div dir="auto">Web Scraping: Bypassing “403 Forbidden,” captchas, and more - <a href="https://news.ycombinator.com/item?id=13884357">https://news.ycombinator.com/item?id=13884357</a></div>
+
+15ad76032ee416bc ~~ Practical Color Theory for People Who Code ~~ <div dir="auto">Practical Color Theory for People Who Code - <a href="https://news.ycombinator.com/item?id=13880891">https://news.ycombinator.com/item?id=13880891</a></div>
+
+15ad75df083b3e3a ~~ Principles for C programming ~~ <div dir="auto">Principles for C programming - <a href="https://news.ycombinator.com/item?id=13882951">https://news.ycombinator.com/item?id=13882951</a></div>
+
+15ac662a8a1276e6 ~~ Ask HN: What are some examples of good code? ~~ <div dir="auto">Ask HN: What are some examples of good code? - <a href="https://news.ycombinator.com/item?id=13854431">https://news.ycombinator.com/item?id=13854431</a></div>
+
+15ac6616e1341dec ~~ Using Vim as a Python IDE ~~ <div dir="auto">Using Vim as a Python IDE - <a href="https://news.ycombinator.com/item?id=13537515">https://news.ycombinator.com/item?id=13537515</a></div>
+
+15abff9f2b2d6047 ~~ Ask HN: How do I start my own consulting firm? ~~ <div dir="auto">Ask HN: How do I start my own consulting firm? - <a href="https://news.ycombinator.com/item?id=13845681">https://news.ycombinator.com/item?id=13845681</a></div>
+
+15aba8909b81297d ~~ How to Scale PostgreSQL on AWS: Learnings from Citus Cloud ~~ <div dir="auto">How to Scale PostgreSQL on AWS: Learnings from Citus Cloud - <a href="https://news.ycombinator.com/item?id=13841115">https://news.ycombinator.com/item?id=13841115</a></div>
+
+15aba88a5bc26d1c ~~ Planet Explorer Beta ~~ <div dir="auto">Planet Explorer Beta - <a href="https://news.ycombinator.com/item?id=13840785">https://news.ycombinator.com/item?id=13840785</a></div>
+
+15aa716499ef2359 ~~ Who Controls Your Computer? (And How to Make Sure It’s You) ~~ <div dir="auto">Who Controls Your Computer? (And How to Make Sure It’s You) - <a href="https://news.ycombinator.com/item?id=13806688">https://news.ycombinator.com/item?id=13806688</a></div>
+
+15a9eeca1d8e63df ~~ Uncertainty in Deep Learning (2016) ~~ <div dir="auto">Uncertainty in Deep Learning (2016) - <a href="https://news.ycombinator.com/item?id=13795867">https://news.ycombinator.com/item?id=13795867</a></div>
+
+15a9ba68dcfb4c9f ~~ Write you a Haskell (2015) ~~ <div dir="auto">Write you a Haskell (2015) - <a href="https://news.ycombinator.com/item?id=13785132">https://news.ycombinator.com/item?id=13785132</a></div>
+
+15a9ba5a2d1f7a74 ~~ A Programmer’s Introduction to Unicode ~~ <div dir="auto">A Programmer’s Introduction to Unicode - <a href="https://news.ycombinator.com/item?id=13790575">https://news.ycombinator.com/item?id=13790575</a></div>
+
+15a947d78e514877 ~~ Tmux ~~ <div dir="auto"><a href="http://askubuntu.com/a/684184/473992">http://askubuntu.com/a/684184/473992</a></div>
+
+15a9441bb822e79a ~~ Python & JSON: Working with large datasets using Pandas ~~ <div dir="auto"><a href="https://www.dataquest.io/blog/python-json-tutorial/" target="_blank">https://www.dataquest.io/blog/<wbr>python-json-tutorial/</a></div>
+
+15a913a516c4e45b ~~ If Higher Ed Doesn’t Adapt, It Will Be Ripe For Disruption ~~ <div dir="auto">If Higher Ed Doesn’t Adapt, It Will Be Ripe For Disruption<br><a href="https://www.linkedin.com/pulse/higher-ed-doesnt-adapt-ripe-disruption-tom-goldenberg">https://www.linkedin.com/pulse/higher-ed-doesnt-adapt-ripe-disruption-tom-goldenberg</a></div>
+
+15a8bbeeeb4bbd68 ~~ Ask HN: Who is hiring? (March 2017) ~~ <div dir="auto">Ask HN: Who is hiring? (March 2017) - <a href="https://news.ycombinator.com/item?id=13764728">https://news.ycombinator.com/item?id=13764728</a></div>
+
+15a87957323c05a5 ~~ A JavaScript deep learning and reinforcement learning library ~~ <div dir="auto">A JavaScript deep learning and reinforcement learning library - <a href="https://news.ycombinator.com/item?id=13759472">https://news.ycombinator.com/item?id=13759472</a></div>
+
+15a74f47f63ebd66 ~~ The Anatomy of Deep Learning Frameworks ~~ <div dir="auto"><a href="http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html">http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html</a></div>
+
+15a68179987ef677 ~~ API Design Guide ~~ <div dir="auto">API Design Guide - <a href="https://news.ycombinator.com/item?id=13706618">https://news.ycombinator.com/item?id=13706618</a></div>
+
+15a5a614970ec56f ~~ Statistical Thinking: My Journey from Frequentist to Bayesian Statistics ~~ <div dir="auto">Statistical Thinking: My Journey from Frequentist to Bayesian Statistics - <a href="https://news.ycombinator.com/item?id=13684429">https://news.ycombinator.com/item?id=13684429</a></div>
+
+15a597be1968b1a0 ~~ Amit’s Game Programming Information ~~ <div dir="auto">Amit’s Game Programming Information - <a href="https://news.ycombinator.com/item?id=13681605">https://news.ycombinator.com/item?id=13681605</a></div>
+
+15a48ee854752d63 ~~ The myth of low-hanging fruit ~~ <div dir="auto">The myth of low-hanging fruit - <a href="https://news.ycombinator.com/item?id=12440583">https://news.ycombinator.com/item?id=12440583</a></div>
+
+15a44f6b4db12645 ~~ I started a one-man biz that's beating VC-backed startups ~~ <div dir="auto">I started a one-man biz that&#39;s beating VC-backed startups - <a href="https://news.ycombinator.com/item?id=13656192">https://news.ycombinator.com/item?id=13656192</a></div>
+
+15a43f7f7296e13e ~~ Getting Started with Deep Learning: A Review of Available Tools ~~ <div dir="auto">Getting Started with Deep Learning: A Review of Available Tools - <a href="https://news.ycombinator.com/item?id=13655334">https://news.ycombinator.com/item?id=13655334</a></div>
+
+15a43f7bafe5b18d ~~ The most cited deep learning papers ~~ <div dir="auto">The most cited deep learning papers - <a href="https://news.ycombinator.com/item?id=13655437">https://news.ycombinator.com/item?id=13655437</a></div>
+
+15a3e4dfc8202e41 ~~ Semantic Question Matching with Deep Learning ~~ <div dir="auto">Post on @Quora by Nikhil Dandekar: Semantic Question Matching with Deep Learning <a href="https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning?srid=nb6i&amp;share=6d2da8ac">https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning?srid=nb6i&amp;share=6d2da8ac</a></div>
+
+15a3d54363bdebcd ~~ Operating Systems: From 0 to 1 ~~ <div dir="auto">Operating Systems: From 0 to 1 - <a href="https://news.ycombinator.com/item?id=13641949">https://news.ycombinator.com/item?id=13641949</a></div>
+
+15a2907c51e422d6 ~~ Ivado ~~ <div dir="auto"><a href="http://ivado.ca/en/">http://ivado.ca/en/</a></div>
+
+15a281dc3309c79b ~~ There Are Exactly Three Programming Paradigms (2013) ~~ <div dir="auto">There Are Exactly Three Programming Paradigms (2013) - <a href="https://news.ycombinator.com/item?id=13612587">https://news.ycombinator.com/item?id=13612587</a></div>
+
+15a24525013b74bf ~~ From Philosophy to Program Size (2003) ~~ <div dir="auto">From Philosophy to Program Size (2003) - <a href="https://news.ycombinator.com/item?id=13606919">https://news.ycombinator.com/item?id=13606919</a></div>
+
+15a243ab9b79e17d ~~ PC build for deep learning ~~ <div dir="auto"><a href="https://www.google.ca/amp/s/amp.reddit.com/r/MachineLearning/comments/4r9uck/pc_build_for_deep_learning/">https://www.google.ca/amp/s/amp.reddit.com/r/MachineLearning/comments/4r9uck/pc_build_for_deep_learning/</a></div>
+
+15a1f95e82848c28 ~~ A Full Hardware Guide to Deep Learning ~~ <div dir="auto"><a href="http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/">http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/</a></div>
+
+15a1f889281067d8 ~~ Deep Learning on AWS -- anyone trying it? ~~ <div dir="auto"><a href="https://www.reddit.com/r/MachineLearning/comments/3tlrmk/deep_learning_on_aws_anyone_trying_it/">https://www.reddit.com/r/MachineLearning/comments/3tlrmk/deep_learning_on_aws_anyone_trying_it/</a></div>
+
+15a1e275e8b8086e ~~ 21 Steps to Becoming a Successful Web Developer ~~ <div dir="auto"><a href="https://www.sitepoint.com/21-steps-to-becoming-a-successful-web-developer/">https://www.sitepoint.com/21-steps-to-becoming-a-successful-web-developer/</a></div>
+
+15a1e26ef88eb95e ~~ A Geometric Interpretation of Neural Networks ~~ <div dir="auto"><a href="http://blog.demofox.org/2017/02/07/a-geometric-interpretation-of-neural-networks/">http://blog.demofox.org/2017/02/07/a-geometric-interpretation-of-neural-networks/</a></div>
+
+15a18d5488962481 ~~ Our long term plan to make GitLab as fast as possible with Vue and Webpack ~~ <div dir="auto">Our long term plan to make GitLab as fast as possible with Vue and Webpack - <a href="https://news.ycombinator.com/item?id=13586940">https://news.ycombinator.com/item?id=13586940</a></div>
+
+15a18d4a1010319f ~~ Ask HN: What are the most requested algorithms during technical interviews? ~~ <div dir="auto">Ask HN: What are the most requested algorithms during technical interviews? - <a href="https://news.ycombinator.com/item?id=13588993">https://news.ycombinator.com/item?id=13588993</a></div>
+
+15a18d426f43e33f ~~ Game theory in practice (2011) ~~ <div dir="auto">Game theory in practice (2011) - <a href="https://news.ycombinator.com/item?id=13587273">https://news.ycombinator.com/item?id=13587273</a></div>
+
+15a18d3a5e5e37f0 ~~ De-Anonymizing Web Browsing Data with Social Networks [pdf] ~~ <div dir="auto">De-Anonymizing Web Browsing Data with Social Networks [pdf] - <a href="https://news.ycombinator.com/item?id=13588447">https://news.ycombinator.com/item?id=13588447</a></div>
+
+15a18d352d7daaf6 ~~ Oxford Deep NLP – An advanced course on natural language processing ~~ <div dir="auto">Oxford Deep NLP – An advanced course on natural language processing - <a href="https://news.ycombinator.com/item?id=13588070">https://news.ycombinator.com/item?id=13588070</a></div>
+
+15a1633f6e19e2e8 ~~ React Native at Instagram ~~ <div dir="auto">React Native at Instagram - <a href="https://news.ycombinator.com/item?id=13584097">https://news.ycombinator.com/item?id=13584097</a></div>
+
+15a153d4f128db63 ~~ Learn C Programming with Open-Source Books ~~ <div dir="auto">Learn C Programming with Open-Source Books - <a href="https://news.ycombinator.com/item?id=13579897">https://news.ycombinator.com/item?id=13579897</a></div>
+
+15a112e5b9478e72 ~~ Ask HN: What is the most exciting development in your field right now? ~~ <div dir="auto">Ask HN: What is the most exciting development in your field right now? - <a href="https://news.ycombinator.com/item?id=13571847">https://news.ycombinator.com/item?id=13571847</a></div>
+
+15a06e3b4af2bf69 ~~ Breakdown of a Simple Ray Tracer ~~ <div dir="auto">Breakdown of a Simple Ray Tracer - <a href="https://news.ycombinator.com/item?id=13563577">https://news.ycombinator.com/item?id=13563577</a></div>
+
+15a05e0d6728cff9 ~~ The STEM Crisis Is a Myth (2013) ~~ <div dir="auto">The STEM Crisis Is a Myth (2013) - <a href="https://news.ycombinator.com/item?id=13562277">https://news.ycombinator.com/item?id=13562277</a></div>
+
+15a05df5d381221f ~~ WorkinTech – Find a Tech Job ~~ <div dir="auto">WorkinTech – Find a Tech Job - <a href="https://news.ycombinator.com/item?id=13560983">https://news.ycombinator.com/item?id=13560983</a></div>
+
+159fd6f63c200149 ~~ Think OS: A Brief Introduction to Operating Systems ~~ <div dir="auto">Think OS: A Brief Introduction to Operating Systems - <a href="https://news.ycombinator.com/item?id=13547402">https://news.ycombinator.com/item?id=13547402</a></div>
+
+159f9a69ea922974 ~~ Million requests per second with Python ~~ <div dir="auto">Million requests per second with Python - <a href="https://news.ycombinator.com/item?id=13539767">https://news.ycombinator.com/item?id=13539767</a></div>
+
+159f9a5fc6b7cbb9 ~~ Introducing the Art, Science, and Engineering of Programming Journal ~~ <div dir="auto">Introducing the Art, Science, and Engineering of Programming Journal - <a href="https://news.ycombinator.com/item?id=13539061">https://news.ycombinator.com/item?id=13539061</a></div>
+
+159f73ad3cd6f9d6 ~~ Request for Startups: News, Jobs, and Democracy ~~ <div dir="auto">Request for Startups: News, Jobs, and Democracy - <a href="https://news.ycombinator.com/item?id=13533347">https://news.ycombinator.com/item?id=13533347</a></div>
+
+159f73a776818895 ~~ How to start a startup without ruining your life ~~ <div dir="auto">How to start a startup without ruining your life - <a href="https://news.ycombinator.com/item?id=13532992">https://news.ycombinator.com/item?id=13532992</a></div>
+
+159f1343c6b9802f ~~ The Algorithms Behind Probabilistic Programming ~~ <div dir="auto">The Algorithms Behind Probabilistic Programming - <a href="https://news.ycombinator.com/item?id=13524529">https://news.ycombinator.com/item?id=13524529</a></div>
+
+159f1336e9a306b4 ~~ Writing a cron job microservice with Serverless and AWS Lambda ~~ <div dir="auto">Writing a cron job microservice with Serverless and AWS Lambda - <a href="https://news.ycombinator.com/item?id=13523408">https://news.ycombinator.com/item?id=13523408</a></div>
+
+159f133023f7e719 ~~ Navigating Mid-Success ~~ <div dir="auto">Navigating Mid-Success - <a href="https://news.ycombinator.com/item?id=13522752">https://news.ycombinator.com/item?id=13522752</a></div>
+
+159edc566189b55b ~~ Using rational numbers to key nested sets [pdf] ~~ <div dir="auto">Using rational numbers to key nested sets [pdf] - <a href="https://news.ycombinator.com/item?id=13517490">https://news.ycombinator.com/item?id=13517490</a></div>
+
+159ed5b071344862 ~~ Typing Practice for Programmers ~~ <div dir="auto">Typing Practice for Programmers - <a href="https://news.ycombinator.com/item?id=13516033">https://news.ycombinator.com/item?id=13516033</a></div>
+
+159e6ce7edeb3718 ~~ Deep learning: the silver bullet? ~~ <div dir="auto"><a href="http://lemire.me/blog/2017/01/27/deep-learning-the-silver-bullet/">http://lemire.me/blog/2017/01/27/deep-learning-the-silver-bullet/</a></div>
+
+159e6cd4128e5230 ~~ Resources for electronic engineers and hobbyists ~~ <div dir="auto">Resources for electronic engineers and hobbyists - <a href="https://news.ycombinator.com/item?id=13507122">https://news.ycombinator.com/item?id=13507122</a></div>
+
+159e6ccc385ede3f ~~ The Fallacy of Premature Optimization (2009) ~~ <div dir="auto">The Fallacy of Premature Optimization (2009) - <a href="https://news.ycombinator.com/item?id=13505721">https://news.ycombinator.com/item?id=13505721</a></div>
+
+159e63e5bbfecb4e ~~ Site Reliability Engineering ~~ <div dir="auto">Site Reliability Engineering - <a href="https://news.ycombinator.com/item?id=13503161">https://news.ycombinator.com/item?id=13503161</a></div>
+
+159e165098232367 ~~ Why Succeeding Against the Odds Can Make You Sick ~~ <div dir="auto">Why Succeeding Against the Odds Can Make You Sick - <a href="https://news.ycombinator.com/item?id=13501360">https://news.ycombinator.com/item?id=13501360</a></div>
+
+159e164977a991e3 ~~ The Founder: A Dystopian Business Simulator ~~ <div dir="auto">The Founder: A Dystopian Business Simulator - <a href="https://news.ycombinator.com/item?id=13500346">https://news.ycombinator.com/item?id=13500346</a></div>
+
+159e1383f7c67cf9 ~~ Linux Performance ~~ <div dir="auto">Linux Performance - <a href="https://news.ycombinator.com/item?id=13498485">https://news.ycombinator.com/item?id=13498485</a></div>
+
+159dc0956851209b ~~ The internals of PostgreSQL ~~ <div dir="auto">The internals of PostgreSQL - <a href="https://news.ycombinator.com/item?id=13488315">https://news.ycombinator.com/item?id=13488315</a></div>
+
+159cc478ce864201 ~~ Scuba: Diving into Data at Facebook [pdf] ~~ <div dir="auto">Scuba: Diving into Data at Facebook [pdf] - <a href="https://news.ycombinator.com/item?id=13463016">https://news.ycombinator.com/item?id=13463016</a></div>
+
+159cc473d1569d3b ~~ Intuition in Mathematics (2012) [pdf] ~~ <div dir="auto">Intuition in Mathematics (2012) [pdf] - <a href="https://news.ycombinator.com/item?id=13460796">https://news.ycombinator.com/item?id=13460796</a></div>
+
+159c8702cc0d67da ~~ Being confidently programming language agnostic ~~ <div dir="auto">Being confidently programming language agnostic - <a href="https://news.ycombinator.com/item?id=13455811">https://news.ycombinator.com/item?id=13455811</a></div>
+
+159c24528b972cfa ~~ 2D game art for programmers ~~ <div dir="auto">2D game art for programmers - <a href="https://news.ycombinator.com/item?id=13449085">https://news.ycombinator.com/item?id=13449085</a></div>
+
+159c244fd6c5e8ae ~~ The practice of programming, 18 years later ~~ <div dir="auto">The practice of programming, 18 years later - <a href="https://news.ycombinator.com/item?id=13448818">https://news.ycombinator.com/item?id=13448818</a></div>
+
+159c244a8de96fff ~~ The lost art of 3D rendering without shaders ~~ <div dir="auto">The lost art of 3D rendering without shaders - <a href="https://news.ycombinator.com/item?id=13448047">https://news.ycombinator.com/item?id=13448047</a></div>
+
+159bdb5e90c92be2 ~~ The Real Estate Empire Behind the President (2016), an Inaugurating Look Into the Trump Family's Business ~~ <div dir="auto"><a href="https://youtu.be/h4otSQYdlNw">https://youtu.be/h4otSQYdlNw</a></div>
+
+159bdab753028574
+159bd69581d8b1fb ~~ How to Get into Natural Language Processing ~~ <div dir="auto">How to Get into Natural Language Processing - <a href="https://news.ycombinator.com/item?id=13445255">https://news.ycombinator.com/item?id=13445255</a></div>
+
+159bc2c2c29ef3fc ~~ Computer Architecture Essentials [video] ~~ <div dir="auto">Computer Architecture Essentials [video] - <a href="https://news.ycombinator.com/item?id=13440911">https://news.ycombinator.com/item?id=13440911</a></div>
+
+159bc2ba7eecba7b ~~ The Infrastructure Behind Twitter: Scale ~~ <div dir="auto">The Infrastructure Behind Twitter: Scale - <a href="https://news.ycombinator.com/item?id=13441932">https://news.ycombinator.com/item?id=13441932</a></div>
+
+159bc2b6df8bf0ea ~~ AWS in Plain English ~~ <div dir="auto">AWS in Plain English - <a href="https://news.ycombinator.com/item?id=13442022">https://news.ycombinator.com/item?id=13442022</a></div>
+
+159b27c87091b271 ~~ What I Wish I'd Known About Equity Before Joining a Unicorn ~~ <div dir="auto">What I Wish I&#39;d Known About Equity Before Joining a Unicorn - <a href="https://news.ycombinator.com/item?id=13426494">https://news.ycombinator.com/item?id=13426494</a></div>
+
+159a47021071a611 ~~ Show HN: Crafting Interpreters – A handbook for making programming languages ~~ <div dir="auto">Show HN: Crafting Interpreters – A handbook for making programming languages - <a href="https://news.ycombinator.com/item?id=13406081">https://news.ycombinator.com/item?id=13406081</a></div>
+
+159a3fe0a2b42c16 ~~ #define CTO OpenAI ~~ <div dir="auto">#define CTO OpenAI - <a href="https://news.ycombinator.com/item?id=13392564">https://news.ycombinator.com/item?id=13392564</a></div>
+
+15994bfd24db96e5 ~~ The Google Brain Team – Looking Back on 2016 ~~ <div dir="auto">The Google Brain Team – Looking Back on 2016 - <a href="https://news.ycombinator.com/item?id=13385168">https://news.ycombinator.com/item?id=13385168</a></div>
+
+15994bf18588c706 ~~ The Risk of Discovery ~~ <div dir="auto">The Risk of Discovery - <a href="https://news.ycombinator.com/item?id=13382963">https://news.ycombinator.com/item?id=13382963</a></div>
+
+1598f7c4525c101e ~~ Show HN: Founderkit – Startup tool recommendations from 1,000 YC founders ~~ <div dir="auto">Show HN: Founderkit – Startup tool recommendations from 1,000 YC founders - <a href="https://news.ycombinator.com/item?id=13376901">https://news.ycombinator.com/item?id=13376901</a></div>
+
+15983a400b6e8cbe ~~ Building a Billion User Load Balancer [video] ~~ <div dir="auto">Building a Billion User Load Balancer [video] - <a href="https://news.ycombinator.com/item?id=13354546">https://news.ycombinator.com/item?id=13354546</a></div>
+
+15983a3c4a028214 ~~ Software Developers Should Have Sysadmin Experience ~~ <div dir="auto">Software Developers Should Have Sysadmin Experience - <a href="https://news.ycombinator.com/item?id=13354329">https://news.ycombinator.com/item?id=13354329</a></div>
+
+15983a371316a88f ~~ Stanford Unsupervised Deep Learning Tutorial (2014) ~~ <div dir="auto">Stanford Unsupervised Deep Learning Tutorial (2014) - <a href="https://news.ycombinator.com/item?id=13353941">https://news.ycombinator.com/item?id=13353941</a></div>
+
+15981e29608f3985 ~~ Origins of Python's “Functional” Features ~~ <div dir="auto">Origins of Python&#39;s “Functional” Features - <a href="https://news.ycombinator.com/item?id=13353266">https://news.ycombinator.com/item?id=13353266</a></div>
+
+15980107a8b46a50 ~~ How can existentialist philosophy help with the anxiety and dread of fatherhood? ~~ <div dir="auto">How can existentialist philosophy help with the anxiety and dread of fatherhood? - <a href="https://news.ycombinator.com/item?id=13348069">https://news.ycombinator.com/item?id=13348069</a></div>
+
+1597c60b6630cd76 ~~ Carrot and Stick: that doesn’t work on Programmers ~~ <div dir="auto">Carrot and Stick: that doesn’t work on Programmers - <a href="https://news.ycombinator.com/item?id=13345484">https://news.ycombinator.com/item?id=13345484</a></div>
+
+1597c5f3fb53a658 ~~ King – man + woman is queen; but why? ~~ <div dir="auto">King – man + woman is queen; but why? - <a href="https://news.ycombinator.com/item?id=13346104">https://news.ycombinator.com/item?id=13346104</a></div>
+
+1597c5e4ea040a1e ~~ Lecture on Creativity (1991) ~~ <div dir="auto">Lecture on Creativity (1991) - <a href="https://news.ycombinator.com/item?id=13346958">https://news.ycombinator.com/item?id=13346958</a></div>
+
+1597bee8c15dd16c ~~ SaaS Side-Business: Lessons Learned with Stripe Subscriptions ~~ <div dir="auto">SaaS Side-Business: Lessons Learned with Stripe Subscriptions - <a href="https://news.ycombinator.com/item?id=13347307">https://news.ycombinator.com/item?id=13347307</a></div>
+
+1597ac6755f2b071 ~~ The Riemann Hypothesis, explained ~~ <div dir="auto">The Riemann Hypothesis, explained - <a href="https://news.ycombinator.com/item?id=13344071">https://news.ycombinator.com/item?id=13344071</a></div>
+
+15979a4eb5a3da36 ~~ AWS Tips I Wish I'd Known Before I Started ~~ <div dir="auto"><a href="https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/">https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/</a></div>
+
+15979a48b7926d5c ~~ AWS Tips, Tricks, and Techniques ~~ <div dir="auto"><a href="https://launchbylunch.com/posts/2014/Jan/29/aws-tips/">https://launchbylunch.com/posts/2014/Jan/29/aws-tips/</a></div>
+
+15979a021a235532 ~~ Using a single AWS account is a serious risk ~~ <div dir="auto">Using a single AWS account is a serious risk - <a href="https://news.ycombinator.com/item?id=10024958">https://news.ycombinator.com/item?id=10024958</a></div>
+
+1597998209c252b8 ~~ The science of Westworld ~~ <div dir="auto">The science of Westworld - <a href="https://news.ycombinator.com/item?id=13343613">https://news.ycombinator.com/item?id=13343613</a></div>
+
+159778a3c22a5f36 ~~ The Art of Pitching: How I Got Published in The Atlantic ~~ <div dir="auto">The Art of Pitching: How I Got Published in The Atlantic - <a href="https://news.ycombinator.com/item?id=13338526">https://news.ycombinator.com/item?id=13338526</a></div>
+
+1596f4c87c659e28 ~~ CS 294 Deep Reinforcement Learning, Spring 2017 ~~ <div dir="auto">CS 294 Deep Reinforcement Learning, Spring 2017 - <a href="https://news.ycombinator.com/item?id=13306362">https://news.ycombinator.com/item?id=13306362</a></div>
+
+1596f4c30b10bb76 ~~ Learning Reinforcement Learning, with Code, Exercises, and Solutions ~~ <div dir="auto">Learning Reinforcement Learning, with Code, Exercises, and Solutions - <a href="https://news.ycombinator.com/item?id=12622652">https://news.ycombinator.com/item?id=12622652</a></div>
+
+1596f4ba9f581282 ~~ Ask HN: Successful one-person online businesses? ~~ <div dir="auto">Ask HN: Successful one-person online businesses? - <a href="https://news.ycombinator.com/item?id=13326535">https://news.ycombinator.com/item?id=13326535</a></div>
+
+1596efc8a7535003 ~~ Easy 6502 – How to get started writing 6502 assembly language ~~ <div dir="auto">Easy 6502 – How to get started writing 6502 assembly language - <a href="https://news.ycombinator.com/item?id=13324978">https://news.ycombinator.com/item?id=13324978</a></div>
+
+1596d9b6ad0c940e ~~ How to Partition a Billion-Node Graph [pdf] ~~ <div dir="auto">How to Partition a Billion-Node Graph [pdf] - <a href="https://news.ycombinator.com/item?id=13323801">https://news.ycombinator.com/item?id=13323801</a></div>
+
+1596c576eb1cdf28 ~~ Why Deep Learning Needs Assembler Hackers ~~ <div dir="auto"><a href="https://petewarden.com/2017/01/03/why-deep-learning-needs-assembler-hackers/">https://petewarden.com/2017/01/03/why-deep-learning-needs-assembler-hackers/</a></div>
+
+159674fb29165ba0 ~~ Getting Past C ~~ <div dir="auto">Getting Past C - <a href="https://news.ycombinator.com/item?id=13312484">https://news.ycombinator.com/item?id=13312484</a></div>
+
+159673b0a9af83be ~~ How to start a deep learning startup, NOT from scratch: a tutorial ~~ <div dir="auto">How to start a deep learning startup, NOT from scratch: a tutorial<br><br><br><a href="https://www.linkedin.com/pulse/how-start-deep-learning-startup-from-scratch-tutorial-benhenda">https://www.linkedin.com/pulse/how-start-deep-learning-startup-from-scratch-tutorial-benhenda</a></div>
+
+15961f77c387224a ~~ Why recursive data structures? ~~ <div dir="auto">Why recursive data structures? - <a href="https://news.ycombinator.com/item?id=13304487">https://news.ycombinator.com/item?id=13304487</a></div>
+
+15961f727c6afc0d ~~ Summary of the Neural Information Processing Systems Conference 2016 ~~ <div dir="auto">Summary of the Neural Information Processing Systems Conference 2016 - <a href="https://news.ycombinator.com/item?id=13305143">https://news.ycombinator.com/item?id=13305143</a></div>
+
+15961f5c2ba8ab08 ~~ Learning to Learn in TensorFlow ~~ <div dir="auto">Learning to Learn in TensorFlow - <a href="https://news.ycombinator.com/item?id=13305324">https://news.ycombinator.com/item?id=13305324</a></div>
+
+1595c32ef10f4510 ~~ How I Write Tests ~~ <div dir="auto">How I Write Tests - <a href="https://news.ycombinator.com/item?id=13296589">https://news.ycombinator.com/item?id=13296589</a></div>
+
+1595c0a0a056c872 ~~ The Developer Marketing Guide ~~ <div dir="auto">The Developer Marketing Guide - <a href="https://news.ycombinator.com/item?id=13296037">https://news.ycombinator.com/item?id=13296037</a></div>
+
+1595b3032f5c9560 ~~ Does Google execute JavaScript? ~~ <div dir="auto">Does Google execute JavaScript? - <a href="https://news.ycombinator.com/item?id=13294779">https://news.ycombinator.com/item?id=13294779</a></div>
+
+1595b2cc436a8ab8 ~~ The Memory Models That Underlie Programming Languages ~~ <div dir="auto">The Memory Models That Underlie Programming Languages - <a href="https://news.ycombinator.com/item?id=13293290">https://news.ycombinator.com/item?id=13293290</a></div>
+
+1595b2c5d07208e4 ~~ How (Not?) to Use Python’s List Comprehensions ~~ <div dir="auto">How (Not?) to Use Python’s List Comprehensions - <a href="https://news.ycombinator.com/item?id=13294431">https://news.ycombinator.com/item?id=13294431</a></div>
+
+1595906b3eda6cc6 ~~ How to ask good questions ~~ <div dir="auto">How to ask good questions - <a href="https://news.ycombinator.com/item?id=13293301">https://news.ycombinator.com/item?id=13293301</a></div>
+
+1595404cc64a7dc4 ~~ Ask HN: How do I get started working for myself? ~~ <div dir="auto">Ask HN: How do I get started working for myself? - <a href="https://news.ycombinator.com/item?id=8772720">https://news.ycombinator.com/item?id=8772720</a></div>
+
+15952f52716ef31b ~~ EveryPolitician: The world’s richest open dataset on politicians ~~ <div dir="auto">EveryPolitician: The world’s richest open dataset on politicians - <a href="https://news.ycombinator.com/item?id=13288614">https://news.ycombinator.com/item?id=13288614</a></div>
+
+15951317eaf59ca7 ~~ A one-side-project-per-month challenge ~~ <div dir="auto">A one-side-project-per-month challenge - <a href="https://news.ycombinator.com/item?id=13284332">https://news.ycombinator.com/item?id=13284332</a></div>
+
+1595130d404c9ea2 ~~ Tips for Reading Code (2014) ~~ <div dir="auto">Tips for Reading Code (2014) - <a href="https://news.ycombinator.com/item?id=13282756">https://news.ycombinator.com/item?id=13282756</a></div>
+
+1594ecf7bcaadca2 ~~ A calculus for automatically differentiable computer programs ~~ <div dir="auto">A calculus for automatically differentiable computer programs - <a href="https://news.ycombinator.com/item?id=13280818">https://news.ycombinator.com/item?id=13280818</a></div>
+
+1594eceacfbd28d1 ~~ Creative Tim: Growing a side project into a $17k/month business ~~ <div dir="auto">Creative Tim: Growing a side project into a $17k/month business - <a href="https://news.ycombinator.com/item?id=13278607">https://news.ycombinator.com/item?id=13278607</a></div>
+
+15947adcad0db8b4 ~~ Nintendo releases original Zelda design docs ~~ <div dir="auto">Nintendo releases original Zelda design docs - <a href="https://news.ycombinator.com/item?id=13271588">https://news.ycombinator.com/item?id=13271588</a></div>
+
+15947ad4becde46c ~~ A Guide to Deep Learning ~~ <div dir="auto">A Guide to Deep Learning - <a href="https://news.ycombinator.com/item?id=13271844">https://news.ycombinator.com/item?id=13271844</a></div>
+
+15947ace270527f9 ~~ Lessons from 3,000 technical interviews ~~ <div dir="auto">Lessons from 3,000 technical interviews - <a href="https://news.ycombinator.com/item?id=13272840">https://news.ycombinator.com/item?id=13272840</a></div>
+
+15946c2c25faf467 ~~ What Is Abstract Algebra? [video] ~~ <div dir="auto">What Is Abstract Algebra? [video] - <a href="https://news.ycombinator.com/item?id=13268335">https://news.ycombinator.com/item?id=13268335</a></div>
+
+1594281d81b8b164 ~~ Finger Trees: A Simple General-Purpose Data Structure (2006) ~~ <div dir="auto">Finger Trees: A Simple General-Purpose Data Structure (2006) - <a href="https://news.ycombinator.com/item?id=13263038">https://news.ycombinator.com/item?id=13263038</a></div>
+
+159428158e202d51 ~~ WebRTC: the future of web games ~~ <div dir="auto">WebRTC: the future of web games - <a href="https://news.ycombinator.com/item?id=13264952">https://news.ycombinator.com/item?id=13264952</a></div>
+
+15942805ba6fbb22 ~~ Library-managed 'arXiv' spreads scientific advances rapidly and worldwide ~~ <div dir="auto">Library-managed &#39;arXiv&#39; spreads scientific advances rapidly and worldwide - <a href="https://news.ycombinator.com/item?id=13264054">https://news.ycombinator.com/item?id=13264054</a></div>
+
+15941dff464ae340 ~~ Visual into to machine learning ~~ <div dir="auto"><a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/">http://www.r2d3.us/visual-intro-to-machine-learning-part-1/</a></div>
+
+1593e825fa1288a3 ~~ The little book about OS development ~~ <div dir="auto">The little book about OS development - <a href="https://news.ycombinator.com/item?id=13258063">https://news.ycombinator.com/item?id=13258063</a></div>
+
+1593d59de2200edd ~~  ~~ <div dir="auto"><a href="http://neuralnetworksanddeeplearning.com/chap5.html">http://neuralnetworksanddeeplearning.com/chap5.html</a></div>
+
+1593cef023d5493c ~~ How to find size of an array in C without sizeof ~~ <div dir="auto">How to find size of an array in C without sizeof - <a href="https://news.ycombinator.com/item?id=13259399">https://news.ycombinator.com/item?id=13259399</a></div>
+
+1593c8e8da50c8a4 ~~ Training AI to Do Everything in the Digital Universe ~~ <div dir="auto">Training AI to Do Everything in the Digital Universe - <a href="https://news.ycombinator.com/item?id=13256962">https://news.ycombinator.com/item?id=13256962</a></div>
+
+1593c8c4baf45cb9 ~~ Software optimization resources ~~ <div dir="auto">Software optimization resources - <a href="https://news.ycombinator.com/item?id=13258254">https://news.ycombinator.com/item?id=13258254</a></div>
+
+1593c8bae7cef7b0 ~~ An Introduction to the Lambda Calculus ~~ <div dir="auto">An Introduction to the Lambda Calculus - <a href="https://news.ycombinator.com/item?id=13258037">https://news.ycombinator.com/item?id=13258037</a></div>
+
+1593c8b2bff42d6c ~~ Learning Machine Learning: A beginner's journey ~~ <div dir="auto">Learning Machine Learning: A beginner&#39;s journey - <a href="https://news.ycombinator.com/item?id=13257252">https://news.ycombinator.com/item?id=13257252</a></div>
+
+159391fe50daa605 ~~ Advent of Code Solutions ~~ <div dir="auto">Advent of Code Solutions - <a href="https://news.ycombinator.com/item?id=13255910">https://news.ycombinator.com/item?id=13255910</a></div>
+
+159391f89c8ff9bd ~~ Basics of Making a Rootkit – From syscall to hook ~~ <div dir="auto">Basics of Making a Rootkit – From syscall to hook - <a href="https://news.ycombinator.com/item?id=13254401">https://news.ycombinator.com/item?id=13254401</a></div>
+
+159391eea3b30a8f ~~ Reflecting on Haskell in 2016 ~~ <div dir="auto">Reflecting on Haskell in 2016 - <a href="https://news.ycombinator.com/item?id=13256092">https://news.ycombinator.com/item?id=13256092</a></div>
+
+159382ae1928b308 ~~ Ways to do load balancing wrong ~~ <div dir="auto">Ways to do load balancing wrong - <a href="https://news.ycombinator.com/item?id=13253453">https://news.ycombinator.com/item?id=13253453</a></div>
+
+159382aa78ea19c1 ~~ A guide to analyst relations for startups ~~ <div dir="auto">A guide to analyst relations for startups - <a href="https://news.ycombinator.com/item?id=13255149">https://news.ycombinator.com/item?id=13255149</a></div>
+
+1593471fcbe273e9 ~~ A practical introduction to functional programming (2013) ~~ <div dir="auto">A practical introduction to functional programming (2013) - <a href="https://news.ycombinator.com/item?id=13252376">https://news.ycombinator.com/item?id=13252376</a></div>
+
+15932f8b67dd1e4d ~~ 2D Terrain generation using midpoint displacement: ~~ <div dir="auto">2D Terrain generation using midpoint displacement: - <a href="https://news.ycombinator.com/item?id=13251463">https://news.ycombinator.com/item?id=13251463</a></div>
+
+159323ed8d333b97 ~~ The Scientist and Engineer's Guide to Digital Signal Processing (1997) ~~ <div dir="auto">The Scientist and Engineer&#39;s Guide to Digital Signal Processing (1997) - <a href="https://news.ycombinator.com/item?id=13248862">https://news.ycombinator.com/item?id=13248862</a></div>
+
+159323e6e85a0371 ~~ Computer Science from the Bottom Up (2013) ~~ <div dir="auto">Computer Science from the Bottom Up (2013) - <a href="https://news.ycombinator.com/item?id=13249675">https://news.ycombinator.com/item?id=13249675</a></div>
+
+159323de64e9a36b ~~ 8,760 Hours: How to get the most out of next year ~~ <div dir="auto">8,760 Hours: How to get the most out of next year - <a href="https://news.ycombinator.com/item?id=13249796">https://news.ycombinator.com/item?id=13249796</a></div>
+
+1591e9f6abed66ee ~~ Rolling Your Own Crypto ~~ <div dir="auto">Rolling Your Own Crypto - <a href="https://news.ycombinator.com/item?id=13221923">https://news.ycombinator.com/item?id=13221923</a></div>
+
+1591e9ed6ebc7b03 ~~ Modern garbage collection ~~ <div dir="auto">Modern garbage collection - <a href="https://news.ycombinator.com/item?id=13218550">https://news.ycombinator.com/item?id=13218550</a></div>
+
+1591e9e55c3d061f ~~ V8: Behind the Scenes (December Edition) ~~ <div dir="auto">V8: Behind the Scenes (December Edition) - <a href="https://news.ycombinator.com/item?id=13222241">https://news.ycombinator.com/item?id=13222241</a></div>
+
+1591e9e24d91e802 ~~ Careers in security, ethical hacking and advice on where to get started ~~ <div dir="auto">Careers in security, ethical hacking and advice on where to get started - <a href="https://news.ycombinator.com/item?id=13216702">https://news.ycombinator.com/item?id=13216702</a></div>
+
+1591e9de26a7ffb1 ~~ Concepts: The Future of Generic Programming [pdf] ~~ <div dir="auto">Concepts: The Future of Generic Programming [pdf] - <a href="https://news.ycombinator.com/item?id=13224344">https://news.ycombinator.com/item?id=13224344</a></div>
+
+1591e9d94461fe49 ~~ Practical Deep Learning for Coders ~~ <div dir="auto">Practical Deep Learning for Coders - <a href="https://news.ycombinator.com/item?id=13224588">https://news.ycombinator.com/item?id=13224588</a></div>
+
+1591e9d3e064197d ~~ How bad does it look to startups to drop out of grad school? ~~ <div dir="auto">How bad does it look to startups to drop out of grad school? - <a href="https://news.ycombinator.com/item?id=3136743">https://news.ycombinator.com/item?id=3136743</a></div>
+
+1591af380d135ec8 ~~ Knuth on money and dropping out of graduate school ~~ <div dir="auto">Knuth on money and dropping out of graduate school - <a href="https://news.ycombinator.com/item?id=2509016">https://news.ycombinator.com/item?id=2509016</a></div>
+
+1591af33bf8eaf35 ~~ Bootstrapping a SaaS Startup from Scratch  ~~ <div dir="auto">Bootstrapping a SaaS Startup from Scratch  - <a href="https://news.ycombinator.com/item?id=13213871">https://news.ycombinator.com/item?id=13213871</a></div>
+
+1590bf8083b4c0f1 ~~ How to Make Money in 6 Easy Steps ~~ <div dir="auto">How to Make Money in 6 Easy Steps - <a href="https://news.ycombinator.com/item?id=2271421">https://news.ycombinator.com/item?id=2271421</a></div>
+
+1590b2c8eb1e433f ~~ Programming Language Popularity on GitHub and StackOverflow ~~ <div dir="auto">Programming Language Popularity on GitHub and StackOverflow - <a href="https://news.ycombinator.com/item?id=13197835">https://news.ycombinator.com/item?id=13197835</a></div>
+
+1590b2c4aaee6adb ~~ Rocket AI: 2016’s Most Notorious AI Launch and the Problem with AI Hype ~~ <div dir="auto">Rocket AI: 2016’s Most Notorious AI Launch and the Problem with AI Hype - <a href="https://news.ycombinator.com/item?id=13194011">https://news.ycombinator.com/item?id=13194011</a></div>
+
+1590b2bff96032d3 ~~ No, I have no side code projects to show you ~~ <div dir="auto">No, I have no side code projects to show you - <a href="https://news.ycombinator.com/item?id=13198175">https://news.ycombinator.com/item?id=13198175</a></div>
+
+1590b2b97586666b ~~ Ask HN: What have you achieved in 2016? ~~ <div dir="auto">Ask HN: What have you achieved in 2016? - <a href="https://news.ycombinator.com/item?id=13199215">https://news.ycombinator.com/item?id=13199215</a></div>
+
+1590b2b5bc926fc4 ~~ Show HN: 30 Days of React ~~ <div dir="auto">Show HN: 30 Days of React - <a href="https://news.ycombinator.com/item?id=13193549">https://news.ycombinator.com/item?id=13193549</a></div>
+
+1590b265f6ece779 ~~ Stroustrup's Rule and Layering Over Time in Rust ~~ <div dir="auto">Stroustrup&#39;s Rule and Layering Over Time in Rust - <a href="https://news.ycombinator.com/item?id=13192052">https://news.ycombinator.com/item?id=13192052</a></div>
+
+1590b25cb5ebc5d5 ~~ Natural Language Corpus Data: Beautiful Data ~~ <div dir="auto">Natural Language Corpus Data: Beautiful Data - <a href="https://news.ycombinator.com/item?id=13197612">https://news.ycombinator.com/item?id=13197612</a></div>
+
+1590b259ee8c788b ~~ Web Fundamentals ~~ <div dir="auto">Web Fundamentals - <a href="https://news.ycombinator.com/item?id=13196605">https://news.ycombinator.com/item?id=13196605</a></div>
+
+1590b2507612a4bf ~~ How is NSA breaking so much crypto? ~~ <div dir="auto">How is NSA breaking so much crypto? - <a href="https://news.ycombinator.com/item?id=10390822">https://news.ycombinator.com/item?id=10390822</a></div>
+
+159099d0e4100c9c ~~ The Idea of Lisp ~~ <div dir="auto">The Idea of Lisp - <a href="https://news.ycombinator.com/item?id=13192738">https://news.ycombinator.com/item?id=13192738</a></div>
+
+159099c669612dd5 ~~ Show HN: Hire an Oldster ~~ <div dir="auto">Show HN: Hire an Oldster - <a href="https://news.ycombinator.com/item?id=13194074">https://news.ycombinator.com/item?id=13194074</a></div>
+
+15903ff292c5e079 ~~ Is Software Development Really a Dead-End Job After 35-40? ~~ <div dir="auto">Is Software Development Really a Dead-End Job After 35-40? - <a href="https://news.ycombinator.com/item?id=13187047">https://news.ycombinator.com/item?id=13187047</a></div>
+
+15903feb1028b83b ~~ Advice on learning Python efficiently ~~ <div dir="auto">Advice on learning Python efficiently - <a href="https://news.ycombinator.com/item?id=13184221">https://news.ycombinator.com/item?id=13184221</a></div>
+
+159012346f47fb1b ~~ Ask HN: PhD, Startup, or Career? ~~ <div dir="auto">Ask HN: PhD, Startup, or Career?  - <a href="https://news.ycombinator.com/item?id=452746">https://news.ycombinator.com/item?id=452746</a></div>
+
+15900947123d4f8b ~~ Does It Make Sense for Programmers to Move to the Bay Area? ~~ <div dir="auto">Does It Make Sense for Programmers to Move to the Bay Area? - <a href="https://news.ycombinator.com/item?id=13178305">https://news.ycombinator.com/item?id=13178305</a></div>
+
+1590093febf4afac ~~ Starting a real business ~~ <div dir="auto">Starting a real business - <a href="https://news.ycombinator.com/item?id=13180312">https://news.ycombinator.com/item?id=13180312</a></div>
+
+158fa9d93c5cb8e5 ~~ PR 101 for engineers ~~ <div dir="auto">PR 101 for engineers - <a href="https://news.ycombinator.com/item?id=13169309">https://news.ycombinator.com/item?id=13169309</a></div>
+
+158f1a4a586765e5 ~~ Zack Soliman shared an answer on Quora with you ~~ <div dir="auto">What is a good explanation of Latent Dirichlet Allocation? by Naomi P Saphra <a href="https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation/answer/Naomi-P-Saphra?srid=nb6i&amp;share=21d7fad0">https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation/answer/Naomi-P-Saphra?srid=nb6i&amp;share=21d7fad0</a></div>
+
+158f11a915003a79 ~~ How I use Anki to learn mathematics ~~ <div dir="auto">How I use Anki to learn mathematics - <a href="https://news.ycombinator.com/item?id=13152404">https://news.ycombinator.com/item?id=13152404</a></div>
+
+158f119dd2c4eebb ~~ How do you know when a software developer is a senior software developer? ~~ <div dir="auto">How do you know when a software developer is a senior software developer? - <a href="https://news.ycombinator.com/item?id=13154878">https://news.ycombinator.com/item?id=13154878</a></div>
+
+158eaa951c20c516 ~~ Generals.io – Capture enemy generals to defeat them ~~ <div dir="auto">Generals.io – Capture enemy generals to defeat them - <a href="https://news.ycombinator.com/item?id=13145781">https://news.ycombinator.com/item?id=13145781</a></div>
+
+158e9eafaa7006b0 ~~ How to learn hacking ~~ <div dir="auto">How to learn hacking - <a href="https://news.ycombinator.com/item?id=13144142">https://news.ycombinator.com/item?id=13144142</a></div>
+
+158e64ac5b2cfe11 ~~ Developers’ side projects ~~ <div dir="auto">Developers’ side projects - <a href="https://news.ycombinator.com/item?id=13142327">https://news.ycombinator.com/item?id=13142327</a></div>
+
+158e64906263c8ff ~~ Ask HN: What problem in your industry is a potential startup? ~~ <div dir="auto">Ask HN: What problem in your industry is a potential startup? - <a href="https://news.ycombinator.com/item?id=13139638">https://news.ycombinator.com/item?id=13139638</a></div>
+
+158e5c28a6e1b3bb ~~ De-Googleify Internet ~~ <div dir="auto">De-Googleify Internet - <a href="https://news.ycombinator.com/item?id=13140389">https://news.ycombinator.com/item?id=13140389</a></div>
+
+158e486ae954930e ~~ The Art of Programming Contest (2007) [pdf] ~~ <div dir="auto">The Art of Programming Contest (2007) [pdf] - <a href="https://news.ycombinator.com/item?id=13137748">https://news.ycombinator.com/item?id=13137748</a></div>
+
+158e249aeb1a82ed ~~ Show HN: U.S. Legal Concepts for Founders – Online Handbook ~~ <div dir="auto">Show HN: U.S. Legal Concepts for Founders – Online Handbook - <a href="https://news.ycombinator.com/item?id=13132944">https://news.ycombinator.com/item?id=13132944</a></div>
+
+158db86d8054676b ~~ An Algebra of Graphs ~~ <div dir="auto">An Algebra of Graphs - <a href="https://news.ycombinator.com/item?id=13123831">https://news.ycombinator.com/item?id=13123831</a></div>
+
+158db8690299bf3f ~~ Tracking Down a Python Memory Leak ~~ <div dir="auto">Tracking Down a Python Memory Leak - <a href="https://news.ycombinator.com/item?id=13123478">https://news.ycombinator.com/item?id=13123478</a></div>
+
+158da4a34a30acb9 ~~ How to Ship Side Projects ~~ <div dir="auto">How to Ship Side Projects - <a href="https://news.ycombinator.com/item?id=13119075">https://news.ycombinator.com/item?id=13119075</a></div>
+
+158c5737558d6eaa ~~ Don’t prematurely obsess on a single “big problem” or “big theory” ~~ <div dir="auto">Don’t prematurely obsess on a single “big problem” or “big theory” - <a href="https://news.ycombinator.com/item?id=13094023">https://news.ycombinator.com/item?id=13094023</a></div>
+
+158b3c8c7173a534 ~~ Logojoy: How an AI-powered logo creator makes $15k/mo ~~ <p dir="ltr">Logojoy: How an AI-powered logo creator makes $15k/mo - <a href="https://news.ycombinator.com/item?id=13065015">https://news.ycombinator.com/item?id=13065015</a></p>
+
+158ac89f17489048 ~~ Modern C [pdf] ~~ <p dir="ltr">Modern C [pdf] - <a href="https://news.ycombinator.com/item?id=13054705">https://news.ycombinator.com/item?id=13054705</a></p>
+
+158a6de61bc1beb8 ~~ Show HN: World class unlimited email hosting for all your domains from $4/month ~~ <p dir="ltr">Show HN: World class unlimited email hosting for all your domains from $4/month - <a href="https://news.ycombinator.com/item?id=13048334">https://news.ycombinator.com/item?id=13048334</a></p>
+
+1589abc40b1b3832 ~~ Why squared error? ~~ <p dir="ltr">Why squared error? - <a href="https://news.ycombinator.com/item?id=13032210">https://news.ycombinator.com/item?id=13032210</a></p>
+
+158992e6f2d2e6c9 ~~ Ask HN: Help a self taught programmer wannabe what to do next ~~ <p dir="ltr">Ask HN: Help a self taught programmer wannabe what to do next - <a href="https://news.ycombinator.com/item?id=6740772">https://news.ycombinator.com/item?id=6740772</a></p>
+
+158985d2661fff14 ~~ Show HN: A visual guide to the most popular CSS properties ~~ <p dir="ltr">Show HN: A visual guide to the most popular CSS properties - <a href="https://news.ycombinator.com/item?id=13031492">https://news.ycombinator.com/item?id=13031492</a></p>
+
+1584f95064155f04 ~~ How We Combined Different Methods to Create Advanced Time Series Prediction – Data Science Central ~~ <p dir="ltr"><a href="http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A482160">http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A482160</a></p>
+
+15835a533cada981 ~~ Frontiers in graphical models research? ~~ <p dir="ltr"><a href="https://www.reddit.com/r/MachineLearning/comments/4dbeeg/frontiers_in_graphical_models_research/">https://www.reddit.com/r/MachineLearning/comments/4dbeeg/frontiers_in_graphical_models_research/</a></p>
+
+15824bd53c499166 ~~  ~~ <p dir="ltr"><a href="http://kunststube.net/encoding/">http://kunststube.net/encoding/</a></p>
+
+15814f75615aa195 ~~ [1610.06918] Learning to Protect Communications with Adversarial Neural Cryptography ~~ <div dir="ltr"><a href="https://arxiv.org/abs/1610.06918">https://arxiv.org/abs/1610.06918</a></div><span>
+</span>
+157fea880eddbe40 ~~ Can Montreal Become an Open Source Startup Hub? ~~ <p dir="ltr">Can Montreal Become an Open Source Startup Hub? - <a href="https://news.ycombinator.com/item?id=2245765">https://news.ycombinator.com/item?id=2245765</a></p>
+
+157f285ff6ea38c3 ~~ HN comments are underrated ~~ <p dir="ltr"><a href="http://danluu.com/hn-comments/">http://danluu.com/hn-comments/</a></p>
+
+157f27da6ea22064 ~~ Hack the Kernel – Learn about operating systems online ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=12773649">https://news.ycombinator.com/item?id=12773649</a></p>
+
+153f5d5fee8e2419 ~~ Designing a Wiki, design considerations and feedback ~~ <p dir="ltr"><a href="http://stackoverflow.com/q/273460/1541962">http://stackoverflow.com/q/273460/1541962</a></p>
+
+153f51b95320b8d5 ~~ Deep learning notes for beginners by a beginner. ~~ <p dir="ltr"><a href="https://www.reddit.com/comments/4du34z">https://www.reddit.com/comments/4du34z</a></p>
+
+153ef7a76df58562 ~~ Why You Should Consider React Native For Your Mobile App – Smashing Magazine ~~ <p dir="ltr"><a href="https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/">https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/</a></p>
+
+1533bf428ccb199c ~~ How Do Node Web Apps Work in Production? - Bill Patrianakos ~~ <p dir="ltr"><a href="http://billpatrianakos.me/blog/2015/01/15/how-do-node-web-apps-work-in-production/">http://billpatrianakos.me/blog/2015/01/15/how-do-node-web-apps-work-in-production/</a></p>
+
+152e60017ec9c55e ~~ Python Design Patterns Guide | Toptal ~~ <p dir="ltr"><a href="http://www.toptal.com/python/python-design-patterns">http://www.toptal.com/python/python-design-patterns</a></p>
+
+152d652f0209ba08 ~~ The Epic Story of Maximum Likelihood ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=11085148">https://news.ycombinator.com/item?id=11085148</a></p>
+
+152d6526dae4c86a ~~ Kill Your Dependencies ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=11065769">https://news.ycombinator.com/item?id=11065769</a></p>
+
+152d651e3fc8acae ~~ Building Two Mobile Apps at Once… with JavaScript ~~ <p dir="ltr"><a href="https://medium.com/@kpcb_edge/building-two-mobile-apps-at-once-with-javascript-bf0b70a56403">https://medium.com/@kpcb_edge/building-two-mobile-apps-at-once-with-javascript-bf0b70a56403</a></p>
+
+152d6507a92c5192 ~~ How to f*ck up your startup ~~ <p dir="ltr"><a href="https://medium.com/@DannyLowney/how-to-f-ck-up-your-startup-b0e11108a5a5#.nux57qryt">https://medium.com/@DannyLowney/how-to-f-ck-up-your-startup-b0e11108a5a5#.nux57qryt</a></p>
+
+152d5f78d7ff5330 ~~ For a non-expert, what's different between Bayesian and frequentist approaches? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=11083890">https://news.ycombinator.com/item?id=11083890</a></p>
+
+15278451748813ec ~~ Failing at Google Interviews - Alex Bowe ~~ <p dir="ltr"><a href="http://alexbowe.com/failing-at-google-interviews/">http://alexbowe.com/failing-at-google-interviews/</a></p>
+
+1526ea351ac7601d ~~ Javarevisited: Top 10 Java Multithreading and Concurrency Best Practices ~~ <p dir="ltr"><a href="http://javarevisited.blogspot.ca/2015/05/top-10-java-multithreading-and.html?m=1">http://javarevisited.blogspot.ca/2015/05/top-10-java-multithreading-and.html?m=1</a></p>
+
+1525e599bc5706a4 ~~ The 7 Rules for Writing Software That Won’t Die When You Do - Karan Goel ~~ <p dir="ltr"><a href="https://goel.io/7-software-writing-rules/">https://goel.io/7-software-writing-rules/</a></p>
+
+15259bc758c1c929 ~~ Creating a marketing strategy for your startup: a relatively quick & easy workflow. ~~ <p dir="ltr"><a href="https://www.reddit.com/r/startups/comments/41lhpc/creating_a_marketing_strategy_for_your_startup_a/">https://www.reddit.com/r/startups/comments/41lhpc/creating_a_marketing_strategy_for_your_startup_a/</a></p>
+
+15257bc47ac26f95 ~~ Ruslan's Blog ~~ <p dir="ltr"><a href="http://ruslanspivak.com/">http://ruslanspivak.com/</a></p>
+
+1524f1c03144eaaf ~~ Securing API Keys in a Client Side JavaScript App - Bill Says... ~~ <p dir="ltr"><a href="http://billpatrianakos.me/blog/2013/09/12/securing-api-keys-in-a-client-side-javascript-app/">http://billpatrianakos.me/blog/2013/09/12/securing-api-keys-in-a-client-side-javascript-app/</a></p>
+
+152216d0c852a286 ~~ Switching from native iOS to Ionic: Why Hybrid doesn't suck (anymore) ~~ <p dir="ltr"><a href="https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic">https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic</a></p>
+
+1522146b3e39f9a7 ~~ How to Hire Online Freelancers without Losing Your Sanity ~~ <p dir="ltr"><a href="http://launchastartup.com/how-to-hire-online-freelancers-without-losing-sanity/">http://launchastartup.com/how-to-hire-online-freelancers-without-losing-sanity/</a></p>
+
+15217a4b4f9d3f0f ~~ How to make $1,000+ per week on Upwork — Jake Jorgovan ~~ <p dir="ltr"><a href="http://jake-jorgovan.com/blog/how-to-make-1000-per-week-on-odesk">http://jake-jorgovan.com/blog/how-to-make-1000-per-week-on-odesk</a></p>
+
+151e0587f23c883b ~~ Signs that you're a good programmer - Software Engineering Tips ~~ <p dir="ltr"><a href="http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer">http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer</a></p>
+
+151d5c12f24d6769 ~~ Want to Write a Compiler? Just Read These Two Papers. ~~ <p dir="ltr"><a href="http://prog21.dadgum.com/30.html">http://prog21.dadgum.com/30.html</a></p>
+
+1517d18c67a59890 ~~ Ask HN - Would a start up take me seriously? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=3456534">https://news.ycombinator.com/item?id=3456534</a></p>
+
+1517d15410f527ca ~~ Ask HN: What should I do if I don't get a summer internship? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=9568677">https://news.ycombinator.com/item?id=9568677</a></p>
+
+1517d12891d797d1 ~~ Ask HN: I am 23. What's next? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=3109773">https://news.ycombinator.com/item?id=3109773</a></p>
+
+1516e0017800add1 ~~ Machine learning works spectacularly well, but mathematicians aren’t sure why ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=10672276">https://news.ycombinator.com/item?id=10672276</a></p>
+
+1516560c9f2d8de3 ~~ Ask HN: How can I learn to architect a production web app? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=6100659">https://news.ycombinator.com/item?id=6100659</a></p>
+
+15150082b38804aa ~~ Ask HN: How do you come up with new project ideas? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=1916801">https://news.ycombinator.com/item?id=1916801</a></p>
+
+15133346096a6445 ~~ Introduction | Building Web Apps with Go ~~ <p dir="ltr"><a href="https://codegangsta.gitbooks.io/building-web-apps-with-go/content/">https://codegangsta.gitbooks.io/building-web-apps-with-go/content/</a></p>
+
+1512e410069978dc ~~ When and why are database joins expensive? - Stack Overflow ~~ <p dir="ltr"><a href="http://stackoverflow.com/questions/173726/when-and-why-are-database-joins-expensive">http://stackoverflow.com/questions/173726/when-and-why-are-database-joins-expensive</a></p>
+
+15123b506a3d2251 ~~ The Legacy of Go | Dave Cheney ~~ <p dir="ltr"><a href="http://dave.cheney.net/2015/11/15/the-legacy-of-go">http://dave.cheney.net/2015/11/15/the-legacy-of-go</a></p>
+
+15123b426d144efa ~~ Top 10 Steps to a Pragmatic Big Data Pipeline | My missives ~~ <p dir="ltr"><a href="https://doubleclix.wordpress.com/2011/11/10/top-10-steps-to-a-pragmatic-big-data-pipeline/">https://doubleclix.wordpress.com/2011/11/10/top-10-steps-to-a-pragmatic-big-data-pipeline/</a></p>
+
+150eb2f27640ea17 ~~ Richard Clayton - MEAN's great, but then you grow up. ~~ <p dir="ltr"><a href="https://rclayton.silvrback.com/means-great-but-then-you-grow-up">https://rclayton.silvrback.com/means-great-but-then-you-grow-up</a></p>
+
+150eb2509dd70efc ~~ What the heck are you actually using NoSQL for? - High Scalability - ~~ <p dir="ltr"><a href="http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html">http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html</a></p>
+
+150eb23d09a0c141 ~~ Understanding SQL And NoSQL Databases And Different Database Models | DigitalOcean ~~ <p dir="ltr"><a href="https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models">https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models</a></p>
+
+150e325c253c9471 ~~ How Bootstrappers Can Compete Against Funded Startups and Get Customers ~~ <p dir="ltr"><a href="https://lessaccounting.com/blog/compete-with-funded-companies/">https://lessaccounting.com/blog/compete-with-funded-companies/</a></p>
+
+150ced1e3a1d192f ~~ Bootstrapping a Business Around Open Source ~~ <p dir="ltr"><a href="https://blog.phusion.nl/2015/10/30/bootstrapping-a-business-around-open-source/">https://blog.phusion.nl/2015/10/30/bootstrapping-a-business-around-open-source/</a></p>
+
+150c9b5055c05c77 ~~ Let’s Build A Simple Interpreter. Part 6. - Ruslan's Blog ~~ <p dir="ltr"><a href="http://ruslanspivak.com/lsbasi-part6/">http://ruslanspivak.com/lsbasi-part6/</a></p>
+
+150c9b4ed0d9dd8e ~~ Why Static Website Generators Are The Next Big Thing – Smashing Magazine ~~ <p dir="ltr"><a href="http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/">http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/</a></p>
+
+150aed9b870619c7 ~~ Matt Swanson - About ~~ <p dir="ltr"><a href="http://www.mdswanson.com/about/">http://www.mdswanson.com/about/</a></p>
+
+15092c439688f548 ~~ Ask HN: I am unable to start my startup because of its scale ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=1267709">https://news.ycombinator.com/item?id=1267709</a></p>
+
+1508111dc81c82b6 ~~ Twitter ~~ <p dir="ltr"><br>
+<a href="http://growth.tlb.org/?utm_content=buffer3dd90&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">http://growth.tlb.org/?utm_content=buffer3dd90&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</a></p>
+
+1508110361137a76 ~~ Twitter ~~ <p dir="ltr"><br>
+<a href="http://www.rightrelevance.com/search/influencers?query=django&amp;taccount=django_rr&amp;time=1445265026.79">http://www.rightrelevance.com/search/influencers?query=django&amp;taccount=django_rr&amp;time=1445265026.79</a></p>
+
+150716c138fe730f ~~ The Deployment Age ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=10399132">https://news.ycombinator.com/item?id=10399132</a></p>
+
+150715b891a6209b ~~ The Deployment Age ~~ <p dir="ltr"><a href="http://reactionwheel.net/2015/10/the-deployment-age.html">http://reactionwheel.net/2015/10/the-deployment-age.html</a></p>
+
+15066fb6bf8df9e2 ~~ I just don't care about myself. ~~ <p dir="ltr"><a href="https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/">https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/</a></p>
+
+1505e35ee31b7134 ~~ Google neural nets ~~ <p dir="ltr"><br>
+<a href="https://plus.google.com/+ResearchatGoogle/posts/LoC8YpFUDFZ">https://plus.google.com/+ResearchatGoogle/posts/LoC8YpFUDFZ</a></p>
+
+15051ea22a324dbe ~~ Creating a CSS Sliding Background Effect | CSS-Tricks ~~ <p dir="ltr"><a href="https://css-tricks.com/creating-a-css-sliding-background-effect/">https://css-tricks.com/creating-a-css-sliding-background-effect/</a></p>
+
+150428159bdafad4 ~~ Ludicrously Fast Page Loads – A Guide for Full-Stack Devs ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=10345589">https://news.ycombinator.com/item?id=10345589</a></p>
+
+15029461b79bf5d9 ~~ Free Lossless Image Format ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=10317790">https://news.ycombinator.com/item?id=10317790</a></p>
+
+1501f908fa2bb809 ~~ Open Problems That Might Be Easy | Gödel's Lost Letter and P=NP ~~ <p dir="ltr"><a href="https://rjlipton.wordpress.com/2015/09/03/open-problems-that-might-be-easy/">https://rjlipton.wordpress.com/2015/09/03/open-problems-that-might-be-easy/</a></p>
+
+14ffb831a058ef07 ~~ How To Actually Get Hired For Your Blog ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=33821">https://news.ycombinator.com/item?id=33821</a></p>
+
+14ffb811b20e3aa3 ~~ Ask HN: What tech blogs, podcasts do you follow outside of HN? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=9836023">https://news.ycombinator.com/item?id=9836023</a></p>
+
+14ffb7f92d6c7517 ~~ Ask HN: What programming blogs do you read daily? ~~ <p dir="ltr"><a href="https://news.ycombinator.com/item?id=3120380">https://news.ycombinator.com/item?id=3120380</a></p>
+
+14fe097dcdd7eeb5 ~~ Software Micro-Consulting via Video Chat | AirPair ~~ <p dir="ltr"><a href="https://www.airpair.com/">https://www.airpair.com/</a></p>
+
+14fdc8ebde9538ca ~~ HTTPS Everywhere With Nginx, Varnish And Apache – Smashing Magazine ~~ <p dir="ltr"><a href="http://www.smashingmagazine.com/2015/09/https-everywhere-with-nginx-varnish-apache/">http://www.smashingmagazine.com/2015/09/https-everywhere-with-nginx-varnish-apache/</a></p>
+
+14fd279255a333ab ~~ Applications of Differential Geometry in Artificial Intelligence ~~ <p dir="ltr"><a href="http://math.stackexchange.com/q/584551/36219">http://math.stackexchange.com/q/584551/36219</a></p>
+
+14fcee8a67fe4a34 ~~ Home – Simply Secure ~~ <p dir="ltr"><a href="https://simplysecure.org/">https://simplysecure.org/</a></p>
+
+14fcc2421a302c9f ~~ Gaffer on Games | Is it just me or is networking really hard? ~~ <p dir="ltr"><a href="http://gafferongames.com/2015/09/12/is-it-just-me-or-is-networking-really-hard/">http://gafferongames.com/2015/09/12/is-it-just-me-or-is-networking-really-hard/</a></p>
+
+14fbcbc6dbceb9cb ~~ Web Development Reading List #103 – Smashing Magazine ~~ <p dir="ltr"><a href="http://www.smashingmagazine.com/2015/09/web-development-reading-list-103/">http://www.smashingmagazine.com/2015/09/web-development-reading-list-103/</a></p>
+
+14e17dd75a30bfed ~~ Talking To Women is All About Arousal! ~~ <p dir="ltr"><a href="http://mysupremacy.com/how-to-talk-to-girls-arousal/">http://mysupremacy.com/how-to-talk-to-girls-arousal/</a></p>
+
+14df5849b4f9d206
+14df0d614c5d7999 ~~ Peer Gynt Suite No. 1, Op. 46: IV. I Dovregubbens Hall (In The Hall Of The Mountain King) - Antonio Pompa-Baldi ~~ <p dir="ltr">I just used Shazam to discover Peer Gynt Suite No. 1, Op. 46: IV. I Dovregubbens Hall (In The Hall Of The Mountain King) by Antonio Pompa-Baldi. <a href="http://shz.am/t82804319">http://shz.am/t82804319</a></p>
+
+14de113b6fb4d1e9 ~~ Zack Soliman shared a question on Quora with you ~~ <p dir="ltr">Question on @Quora: How can I build a web crawler from scratch? <a href="http://qr.ae/7N2jqH">http://qr.ae/7N2jqH</a></p>
+
+14dc8103c4503860 ~~ What are some simple and informative beginners projects? ~~ <p dir="ltr"><a href="http://electronics.stackexchange.com/q/8082/10972">http://electronics.stackexchange.com/q/8082/10972</a></p>
+
+14dc7bf8dad781a1 ~~ Where to learn about low-level, hard-core performance stuffs? ~~ <p dir="ltr"><a href="http://stackoverflow.com/q/7259891/1541962">http://stackoverflow.com/q/7259891/1541962</a></p>
+
+14dc602f8fd8ccb1 ~~ Open problems with monetary rewards ~~ <p dir="ltr"><a href="http://mathoverflow.net/q/66084/60580">http://mathoverflow.net/q/66084/60580</a></p>
+
+14dc601196e81665 ~~ How does a non-mathematician go about publishing a proof in a way that ensures it to be up to the mathematical community's standards? ~~ <p dir="ltr"><a href="http://math.stackexchange.com/q/275194/36219">http://math.stackexchange.com/q/275194/36219</a></p>
+
+14d6d1b031adfc6b ~~ Ask HN: How do I get my first contracting client? ~~ 
+
+14d08677928f5a36 ~~ Category Theory for Programmers ~~ <p dir="ltr"><a href="http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/</a></p>
+
+14c94b9362674444 ~~ A Mathematical Atlas ~~ <p dir="ltr"><a href="http://www.math.niu.edu/~rusin/known-math/welcome.html">http://www.math.niu.edu/~rusin/known-math/welcome.html</a></p>
+
+14c75a4aeafa84d7 ~~ So-Called “Programmer” ~~ <p dir="ltr"><a href="http://www.socalledprogrammer.com/2015/03/refactoring-getting-started.html">http://www.socalledprogrammer.com/2015/03/refactoring-getting-started.html</a></p>
+
+14c759d95cad0321 ~~ 8 Small Git tips ~~ <p dir="ltr"><a href="http://blog.rlmflores.me/git/2015/03/31/8-small-git-tips/">http://blog.rlmflores.me/git/2015/03/31/8-small-git-tips/</a></p>
+
+14c6aa441f47783b ~~ As programmers, why we never finish our projects ~~ <p dir="ltr"><a href="http://programmer-hek.blogspot.com/2014/11/as-programmers-why-we-never-finish-our.html">http://programmer-hek.blogspot.com/2014/11/as-programmers-why-we-never-finish-our.html</a></p>
+
+14b8a42ab62897cf ~~ Ask HN: The “I want to do everything but end up doing nothing” dilemma ~~ <p dir="ltr">Hacker news article</p>
+
+14ac3909ff52dab9 ~~  ~~ <p dir="ltr"><a href="http://codewars.com">http://codewars.com</a></p>
+
+14ac3560d6779116 ~~ JSbooks - Free Javascript Ebooks ~~ <p dir="ltr"><a href="http://jsbooks.revolunet.com/">http://jsbooks.revolunet.com/</a></p>
+
+14a9ad57af1bb36b ~~  ~~ <p dir="ltr"><a href="http://chimera.labs.oreilly.com/books/1234000000754">http://chimera.labs.oreilly.com/books/1234000000754</a></p>
+
+14a9acd6b3178942 ~~  ~~ <p dir="ltr"><a href="https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet">https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet</a></p>
+
+14a9acd033faf682 ~~  ~~ <p dir="ltr"><a href="https://www.owasp.org/index.php/Authentication_Cheat_Sheet">https://www.owasp.org/index.php/Authentication_Cheat_Sheet</a></p>
+
+14a81063e8d3c162 ~~  ~~ <p dir="ltr"><a href="http://indieconf.com">http://indieconf.com</a></p>
+
+14a80c83dffd0e7c ~~ Gamasutra - The Designer's Notebook: Bad Game Designer, No Twinkie! IX ~~ <p dir="ltr"><a href="http://www.gamasutra.com/view/feature/3812/the_designers_notebook_bad_game_.php?print=1">http://www.gamasutra.com/view/feature/3812/the_designers_notebook_bad_game_.php?print=1</a></p>
+
+14867b82e4ef9950 ~~ Awesome Node.js: Curated list of delightful Node.js packages ~~ <p dir="ltr"><a href="https://github.com/sindresorhus/awesome-nodejs">https://github.com/sindresorhus/awesome-nodejs</a></p>
+
+147ca131a69c946c ~~ Zakaria Soliman shared a question on Quora with you ~~ <p dir="ltr">What are the steps to be proficient in Java? <a href="http://qr.ae/MRbpM">http://qr.ae/MRbpM</a></p>
+
+141b9c203ffd2719 ~~ Morneau ~~ <div dir="ltr">Steve Galipeau<div><br></div><div><span style="color:rgb(54,54,54);font-family:Arial,Helvetica,Verdana,sans-serif;font-size:11px;white-space:nowrap;background-color:rgb(251,249,238)"><a href="mailto:sgalipeau@morneaushepell.com">sgalipeau@morneaushepell.com</a></span><br>
+</div><div><span style="color:rgb(54,54,54);font-family:Arial,Helvetica,Verdana,sans-serif;font-size:11px;white-space:nowrap;background-color:rgb(251,249,238)">(514) 876-7371 ext. 7371</span><span style="color:rgb(54,54,54);font-family:Arial,Helvetica,Verdana,sans-serif;font-size:11px;white-space:nowrap;background-color:rgb(251,249,238)"><br>
+</span></div></div>
+
+13bbff1bb06803bc ~~ steve email ~~ <div dir="ltr"><div class="" style="clear:both;width:857.6333618164063px;margin-bottom:5px;font-family:Arial,Helvetica,Verdana,sans-serif;font-size:12px"><div class="" style="float:left;margin-bottom:2px"><a href="mailto:sgalipeau@morneaushepell.com">sgalipeau@morneaushepell.com</a></div>
+<div><br></div><div style="clear:both"></div></div></div>
+
+13b90f2052d26f44 ~~ finance ~~ <a href="http://www.wallstreetoasis.com/forums/how-to-get-into-banking-and-wso-myths">http://www.wallstreetoasis.com/forums/how-to-get-into-banking-and-wso-myths</a><br><div><br></div><div><a href="http://www.reddit.com/r/finance/comments/146b7y/how_to_get_into_banking_and_common_myths/">http://www.reddit.com/r/finance/comments/146b7y/how_to_get_into_banking_and_common_myths/</a><br>
+</div><div><br></div><div><a href="http://www.reddit.com/r/finance/comments/14b4tk/how_can_you_gauge_your_demand_for_a_startup/">http://www.reddit.com/r/finance/comments/14b4tk/how_can_you_gauge_your_demand_for_a_startup/</a><br>
+</div>
+
+13b8bd4e0843ec82 ~~  ~~ <a href="http://ascii.textfiles.com/archives/3800">http://ascii.textfiles.com/archives/3800</a><br><div><br></div><div><a href="http://arbor.posterous.com/i-quit-my-high-paying-job-what-now">http://arbor.posterous.com/i-quit-my-high-paying-job-what-now</a><br>
+</div>
+
+13b722553b469ab0 ~~ site ~~ <a href="https://www.betterment.com/why/">https://www.betterment.com/why/</a><br>
+
+13b6c1a8c73c8550 ~~ fool.com ~~ <a href="http://www.fool.com/investing/general/2012/12/05/3-stocks-to-get-on-your-watchlist-10.aspx">http://www.fool.com/investing/general/2012/12/05/3-stocks-to-get-on-your-watchlist-10.aspx</a><br>
+
+13b67c5e2c670a7c ~~  ~~ <a href="http://www.jprl.com/Blog/archive/development/2007/Aug-31.html">http://www.jprl.com/Blog/archive/development/2007/Aug-31.html</a><br><div><a href="http://www.investopedia.com/terms/h/head-shoulders.asp#axzz2E0bhcemn">http://www.investopedia.com/terms/h/head-shoulders.asp#axzz2E0bhcemn</a><br>
+</div><div><br></div><div><a href="http://www.investopedia.com/terms/i/inverseheadandshoulders.asp#axzz2E0bhcemn">http://www.investopedia.com/terms/i/inverseheadandshoulders.asp#axzz2E0bhcemn</a><br></div><div><a href="http://www.investopedia.com/articles/technical/02/121702.asp#axzz2E0bhcemn">http://www.investopedia.com/articles/technical/02/121702.asp#axzz2E0bhcemn</a><br>
+</div><div><a href="http://www.investopedia.com/articles/trading/07/candlestick-westernline.asp#axzz2E0bhcemn">http://www.investopedia.com/articles/trading/07/candlestick-westernline.asp#axzz2E0bhcemn</a><br></div><div><br>
+</div><div><br></div><div><br></div><div><br></div><div><br></div>
+
+13b617297a310e1f ~~ so ~~ <a href="http://stackoverflow.com/questions/1669/learning-to-write-a-compiler">http://stackoverflow.com/questions/1669/learning-to-write-a-compiler</a><br><div><br></div><div><a href="http://stackoverflow.com/questions/13634866/programming-3d-particle-collision">http://stackoverflow.com/questions/13634866/programming-3d-particle-collision</a><br>
+</div>
+
+13b48c1e48cbdc80 ~~ sites ~~ <a href="http://stackoverflow.com/questions/1132941/least-astonishment-in-python-the-mutable-default-argument">language design - &quot;Least Astonishment&quot; in Python: The Mutable Default Argument - Stack Overflow</a><div>
+<br><div><a href="http://stackoverflow.com/questions/2272922/vim-omnicomplete-vs-vim-intellisense">c++ - vim omnicomplete vs. vim intellisense - Stack Overflow</a><br></div><div><br></div><div><a href="http://stackoverflow.com/questions/4841782/python-constructor-and-default-value">Python constructor and default value - Stack Overflow</a><br>
+</div><div><br></div><div><br></div><div><br></div><div><br></div></div>
+
+13b43bc5d992758b ~~ site ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><font face="Calibri, sans-serif">http://blog.fogus.me/2012/11/27/our-industry-needs-more/</font> 		 	   		  </div></body>
+</html>
+13b2f255992aa862 ~~  ~~ <a href="http://www.trade2win.com/boards/trading-software/49508-open-source-automated-trading-platform.html">http://www.trade2win.com/boards/trading-software/49508-open-source-automated-trading-platform.html</a><br>
+
+13b29e541f388723 ~~  ~~ <a href="http://lwn.net/Articles/250967/">http://lwn.net/Articles/250967/</a><br>
+
+13b29ccad629b5df ~~ stackoverflow ~~ <a href="http://stackoverflow.com/questions/3106110/can-someone-please-explain-move-semantics-to-me">http://stackoverflow.com/questions/3106110/can-someone-please-explain-move-semantics-to-me</a><br><div><br></div><div><a href="http://stackoverflow.com/questions/13456482/template-polymorphism">http://stackoverflow.com/questions/13456482/template-polymorphism</a><br>
+</div><div><br></div><div><br></div>
+
+13b24d54347bb534 ~~ site ~~ <a href="https://training.kalzumeus.com/newsletters/archive/consulting_1">https://training.kalzumeus.com/newsletters/archive/consulting_1</a><br><div><a href="http://news.ycombinator.com/item?id=4805091">http://news.ycombinator.com/item?id=4805091</a><br>
+</div>
+
+13b1fb81f347ed28 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><font face="Calibri, sans-serif">http://news.ycombinator.com/item?id=4806852</font><div><font face="Calibri, sans-serif"><br></font></div><div><font face="Calibri, sans-serif">http://paulgraham.com/startupideas.html</font></div> 		 	   		  </div></body>
+</html>
+13b1fb701def83a4 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><font face="Calibri, sans-serif">http://www.hongkiat.com/blog/pixel-based-websites/</font> 		 	   		  </div></body>
+</html>
+13b1faed18e97993 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><font face="Calibri, sans-serif">http://madbean.com/2004/mb2004-3/</font> 		 	   		  </div></body>
+</html>
+13b00c50d0b3cf12 ~~ algopdf ~~ <a href="http://www.cs.berkeley.edu/~vazirani/algorithms/all.pdf">www.cs.berkeley.edu/~vazirani/algorithms/all.pdf</a><br>
+
+13adcb8000b3e088 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://programmers.stackexchange.com/questions/174997/should-i-use-c-style-in-c">Should I use C style in C++? - Programmers</a> 		 	   		  </div></body>
+</html>
+13adcb0692b07443 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://www.checkio.org/welcome/">CheckIO</a><div><br></div><div><a href="http://davidhauser.com/post/35203066523/advice-from-21-entrepreneurs">David Hauser - 25 Entrepreneurs Tell What They Wish They’d Known before Founding Their First Startup</a></div><div><br></div><div><a href="https://github.com/chris-taylor/USElection" style="font-size: 12pt; ">chris-taylor/USElection · GitHub</a></div> 		 	   		  </div></body>
+</html>
+13ad20eff47b114f
+13ad18c1aeb73117 ~~ site ~~ <a href="http://news.ycombinator.com/item?id=4742968">http://news.ycombinator.com/item?id=4742968</a><br>
+
+13abd2d8ed0dc4a4 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://techcrunch.com/2012/11/01/big-data-visualization-startup-lucky-sort-partners-with-stocktwits-lets-investors-chart-stock-trends-in-real-time/">Big Data Visualization Startup Lucky Sort Partners With StockTwits, Lets Investors Chart Stock Trends In Real-Time | TechCrunch</a> 		 	   		  </div></body>
+</html>
+13aae27a5a5d80dd ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://tommy.authpad.com/when-does-learning-stop-being-so-hard">When does learning stop being so hard? - Tommy's Pad</a> 		 	   		  </div></body>
+</html>
+13aae1c0e8735d5c
+13a7aa924651f56f
+13a75741f3258984
+13a56ad118db2118 ~~ site ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://keithelder.net/2008/05/02/How-To-Not-Screw-Up-Your-Application-Object-Model/">http://keithelder.net/2008/05/02/How-To-Not-Screw-Up-Your-Application-Object-Model/</a> 		 	   		  </div></body>
+</html>
+13a56a3aa8ac2349 ~~ oop site ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://zone.ni.com/devzone/cda/ph/p/id/45">C# Programming Fundamentals: OOP - Developer Zone - National Instruments</a> 		 	   		  </div></body>
+</html>
+13a4c3fb63e6880f ~~ site ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://betterexplained.com/articles/linear-algebra-guide/">http://betterexplained.com/articles/linear-algebra-guide/</a> 		 	   		  </div></body>
+</html>
+13a47211c8b89676
+13a284b9e3b7c76c
+13a0e8c09860c2d1 ~~ RE: ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://stackoverflow.com/questions/3442821/dynamic-vs-object-type">c# - dynamic vs object type - Stack Overflow</a><br><br><div><div id="SkyDrivePlaceholder"></div><hr id="stopSpelling">From: zakaria200@hotmail.com<br>To: zakaria.soliman1@gmail.com; zakaria200@hotmail.com<br>Subject: <br>Date: Fri, 28 Sep 2012 16:19:38 -0400<br><br>
+
+<style><!--
+.ExternalClass .ecxhmmessage P
+{padding:0px;}
+.ExternalClass body.ecxhmmessage
+{font-size:12pt;font-family:Calibri;}
+
+--></style>
+<div dir="ltr"><a href="http://stackoverflow.com/questions/1664197/financial-library-for-c-c" target="_blank">Financial library for C/C++ - Stack Overflow</a><div><br></div><div><a href="http://stackoverflow.com/questions/12645640/c-financial-library" target="_blank">C++ financial library - Stack Overflow</a></div> 		 	   		  </div></div> 		 	   		  </div></body>
+</html>
+13a0e88d6a4ddb40 ~~  ~~ <html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></head>
+<body class='hmmessage'><div dir='ltr'><a href="http://stackoverflow.com/questions/1664197/financial-library-for-c-c">Financial library for C/C++ - Stack Overflow</a><div><br></div><div><a href="http://stackoverflow.com/questions/12645640/c-financial-library">C++ financial library - Stack Overflow</a></div> 		 	   		  </div></body>
+</html>
+13a0452b3b55f61a
+139fe54a0bff295f
+139fe4a91479650f
+139d51b453b8cc25
+139d51a0ffe6c3b4
+139d5157b60f5fe9
+139a1a25b6612ca9
+1398fde6941a0361
+138ee4281e68e6ea
+138b74cda7c86b1c
+138b55b6a4a54206
+1389af7db9a6e205
+137dc08ad5b40672
+137cc92a2d9a850d
+137cbfce753f3f0e
+137c8a7309fe74de
+137c89887c9dbcc9
+137c6e4c889cf57d
+1360c6c54dc3495f
+135e9f20afba320c
+135a19fb1ee1e3ac
+13597057b31396e4
+13559e2054c0bfec
+13292b9c8a9d9467 ~~  ~~ <a href="http://www.technologyreview.com/web/38653/?p1=A2">http://www.technologyreview.com/web/38653/?p1=A2</a>
+
+1323fd5e2beda0ca ~~ site ~~ <a href="http://www.elite-hackers.com/">http://www.elite-hackers.com/</a>
+
