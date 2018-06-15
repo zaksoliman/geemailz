@@ -51,6 +51,7 @@ def fetch_snippets():
         if parts:
             filtered = list(filter(lambda x: x['mimeType'] == 'text/html', parts))
             subject = list(filter(lambda h: h['name'] == 'Subject', message['payload']['headers']))[0]['value']
+
         if not filtered:
             contents.append((msg['id'],))
         else:

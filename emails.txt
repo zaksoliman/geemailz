@@ -1,3 +1,31 @@
+163efa0f60085df1 ~~ Learning operating system development using Linux kernel and Raspberry Pi ~~ <div dir="auto">Learning operating system development using Linux kernel and Raspberry Pi - <a href="https://news.ycombinator.com/item?id=17282000">https://news.ycombinator.com/item?id=17282000</a></div>
+
+163ef9b3406459cf ~~ Ask HN: Good books/resources that provide overviews of large industries? ~~ <div dir="auto">Ask HN: Good books/resources that provide overviews of large industries? - <a href="https://news.ycombinator.com/item?id=17282449">https://news.ycombinator.com/item?id=17282449</a></div>
+
+163ef9ab5eb1627a ~~ Building the Software 2.0 Stack by Andrej Karpathy [video] ~~ <div dir="auto">Building the Software 2.0 Stack by Andrej Karpathy [video] - <a href="https://news.ycombinator.com/item?id=17280454">https://news.ycombinator.com/item?id=17280454</a></div>
+
+163ef9a7e361874e ~~ Attacks against machine learning – an overview ~~ <div dir="auto">Attacks against machine learning – an overview - <a href="https://news.ycombinator.com/item?id=17279702">https://news.ycombinator.com/item?id=17279702</a></div>
+
+163e50d9580421f7 ~~ Getting Started in Natural Language Processing ~~ <div dir="auto">Getting Started in Natural Language Processing - <a href="https://news.ycombinator.com/item?id=17265593">https://news.ycombinator.com/item?id=17265593</a></div>
+
+163d048b7f4c4a81 ~~ Advanced computing with IPython ~~ <div dir="auto">Advanced computing with IPython - <a href="https://news.ycombinator.com/item?id=17236788">https://news.ycombinator.com/item?id=17236788</a></div>
+
+163caf073c60312d ~~ Demystifying CORS ~~ <div dir="auto">Demystifying CORS - <a href="https://news.ycombinator.com/item?id=17224772">https://news.ycombinator.com/item?id=17224772</a></div>
+
+163caf02b7a27ad6 ~~ American tech giants are making life tough for startups ~~ <div dir="auto">American tech giants are making life tough for startups - <a href="https://news.ycombinator.com/item?id=17221885">https://news.ycombinator.com/item?id=17221885</a></div>
+
+163caf004a49ae1f ~~ Data serialization ~~ <div dir="auto">Data serialization - <a href="https://news.ycombinator.com/item?id=17226781">https://news.ycombinator.com/item?id=17226781</a></div>
+
+16374cbeed220108 ~~ Solving Dynamic Programming interview problems ~~ <div dir="auto">Solving Dynamic Programming interview problems - <a href="https://news.ycombinator.com/item?id=17102604">https://news.ycombinator.com/item?id=17102604</a></div>
+16374c6e48f127b4 ~~ How to Come Up with Profitable Business Ideas ~~ <div dir="auto">How to Come Up with Profitable Business Ideas - <a href="https://news.ycombinator.com/item?id=17102981">https://news.ycombinator.com/item?id=17102981</a></div>
+1635045bd233088b ~~ The Evolution of C Programming Practices: A Study of Unix (2016) [pdf] ~~ <div dir="auto">The Evolution of C Programming Practices: A Study of Unix (2016) [pdf] - <a href="https://news.ycombinator.com/item?id=17046332">https://news.ycombinator.com/item?id=17046332</a></div>
+16350458791d9608 ~~ Warriorjs – An exciting game of programming and artificial intelligence ~~ <div dir="auto">Warriorjs – An exciting game of programming and artificial intelligence - <a href="https://news.ycombinator.com/item?id=17047285">https://news.ycombinator.com/item?id=17047285</a></div>
+1634ab168bf5f6c2 ~~ upsampling notes ~~ <a href=http://www.cs.toronto.edu/~guerzhoy/320/lec/upsampling.pdf><font size=2 color=blue face="sans-serif">http://www.cs.toronto.edu/~guerzhoy/320/lec/upsampling.pdf</font></a>
+1634a9e0358f9b07 ~~ DeepMind: From Generative Models to Generative Agents [video] ~~ <div dir="auto">DeepMind: From Generative Models to Generative Agents [video] - <a href="https://news.ycombinator.com/item?id=17035490">https://news.ycombinator.com/item?id=17035490</a></div>
+1634a9dfc35defdd ~~ Web Authentication API ~~ <div dir="auto">Web Authentication API - <a href="https://news.ycombinator.com/item?id=17037189">https://news.ycombinator.com/item?id=17037189</a></div>
+1634a976083a9552 ~~ A Short Introduction to the Art of Programming (1971) [pdf] ~~ <div dir="auto">A Short Introduction to the Art of Programming (1971) [pdf] - <a href="https://news.ycombinator.com/item?id=17026822">https://news.ycombinator.com/item?id=17026822</a></div>
+1634a96b173933d7 ~~ Common Lisp homepage ~~ <div dir="auto">Common Lisp homepage - <a href="https://news.ycombinator.com/item?id=17036497">https://news.ycombinator.com/item?id=17036497</a></div>
+16346badb7b08533 ~~ Understanding Machine Learning: From Theory to Algorithms ~~ <div dir="auto">Understanding Machine Learning: From Theory to Algorithms - <a href="https://news.ycombinator.com/item?id=17029004">https://news.ycombinator.com/item?id=17029004</a></div>
 163056000fa89603 ~~ Random – Probability, mathematical statistics, and stochastic processes (2015) ~~ <div dir="auto">Random – Probability, mathematical statistics, and stochastic processes (2015) - <a href="https://news.ycombinator.com/item?id=14283966">https://news.ycombinator.com/item?id=14283966</a></div>
 162e11bbe1965479 ~~ The AI Revolution Hasn’t Happened Yet ~~ <div dir="auto">The AI Revolution Hasn’t Happened Yet - <a href="https://news.ycombinator.com/item?id=16873778">https://news.ycombinator.com/item?id=16873778</a></div>
 162ded02fc3037ac ~~ List of places to find remote jobs and freelancing projects ~~ <div dir="auto">List of places to find remote jobs and freelancing projects - <a href="https://news.ycombinator.com/item?id=16875868">https://news.ycombinator.com/item?id=16875868</a></div>
@@ -1128,19 +1156,3 @@ font-family:Calibri
 138ee4281e68e6ea
 138b74cda7c86b1c
 138b55b6a4a54206
-1389af7db9a6e205
-137dc08ad5b40672
-137cc92a2d9a850d
-137cbfce753f3f0e
-137c8a7309fe74de
-137c89887c9dbcc9
-137c6e4c889cf57d
-1360c6c54dc3495f
-135e9f20afba320c
-135a19fb1ee1e3ac
-13597057b31396e4
-13559e2054c0bfec
-13292b9c8a9d9467 ~~  ~~ <a href="http://www.technologyreview.com/web/38653/?p1=A2">http://www.technologyreview.com/web/38653/?p1=A2</a>
-
-1323fd5e2beda0ca ~~ site ~~ <a href="http://www.elite-hackers.com/">http://www.elite-hackers.com/</a>
-
